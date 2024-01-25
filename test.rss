@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Pew Pew Test Show</title>
+    <description>Test Show for Testing Stuff</description>
+    <atom:link href="https://ericpp.github.io/rss/test.rss" rel="self" type="application/rss+xml" />
+    <itunes:author>ericpp</itunes:author>
+    <itunes:category text="Music"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://ericpp.github.io/rss/test.jpg"/>
+    <itunes:keywords>pew,test,show</itunes:keywords>
+    <itunes:owner itunes:name="ericpp" itunes:email=""/>
+    <podcast:guid>ca8b0870-47df-4432-89d5-8ad60ca3f577</podcast:guid>
+    <podcast:medium>music</podcast:medium>
+    <podcast:value type="lightning" method="keysend">
+      <podcast:valueRecipient name="Pew Pew Pew!" type="node" address="039dce5f4f268060d7128267caba658a7e8cd0effaeb81f0daeef843ce2b22110d" split="100"/>
+    </podcast:value>
+    <item>
+      <pubDate>Thu, 25 Jan 2024 03:01:52 +0000</pubDate>
+      <title>Test track #1</title>
+      <description>Test track #1 for testing stuff</description>
+      <enclosure url="https://ericpp.github.io/rss/test.mp3" type="audio/mpeg" length="147802"/>
+      <guid isPermaLink="false">2bd231ba-ebfe-4966-94b6-c9efa2768470</guid>
+      <itunes:duration>00:00:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:episode>1</podcast:episode>
+      <podcast:season>1</podcast:season>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Pew Pew Pew!" type="node" address="039dce5f4f268060d7128267caba658a7e8cd0effaeb81f0daeef843ce2b22110d" split="100"/>
+      </podcast:value>
+    </item>
+  </channel>
+</rss>
