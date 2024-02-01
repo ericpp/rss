@@ -1,6 +1,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title>Pew Pew Test Show</title>
+    <title>Pew Pew Test Stuff</title>
     <description>Test Show for Testing Stuff</description>
     <language>en</language>
     <atom:link href="https://ericpp.github.io/rss/test.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <image>
       <url>https://ericpp.github.io/rss/test.jpg</url>
       <link>https://ericpp.github.io/rss/</link>
-      <title>Pew Pew Test Show</title>
+      <title>Pew Pew Test Stuff</title>
       <description>Test Show for Testing Stuff</description>
       <width>144</width>
       <height>144</height>
@@ -49,7 +49,7 @@
       <pubDate>Thu, 25 Jan 2024 03:01:52 +0000</pubDate>
       <author>ericpp@no.email.plz (ericpp)</author>
       <itunes:author>ericpp</itunes:author>
-      <itunes:keywords>pew, test show</itunes:keywords>
+      <itunes:keywords>pew, test, stuff</itunes:keywords>
       <itunes:summary><![CDATA[Test track #1 for testing stuff]]></itunes:summary>
       <itunes:duration>16</itunes:duration>
     </item>
