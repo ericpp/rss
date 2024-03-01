@@ -1,0 +1,181 @@
+<html>
+<head>
+<title>Boosts in Space!</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js"></script>
+<link href="https://fonts.cdnfonts.com/css/joystix" rel="stylesheet">
+<style>
+body {
+	padding: 0; margin: 0;
+}
+</style>
+</head>
+<body>
+	<script>
+var ship
+var lasers = []
+var enemies = []
+var stars = []
+let font
+let numstars = 50
+
+const boxWidth = 800
+const boxHeight = 800
+
+let boxOffsetWidth;
+let boxOffsetHeight;
+
+function setup(){
+	boxOffsetWidth = Math.floor((windowWidth - boxWidth) / 2);
+	boxOffsetHeight = Math.floor((windowHeight - boxHeight) / 2);
+	createCanvas(windowWidth, windowHeight);
+}
+
+function windowResized() {
+	boxOffsetWidth = Math.floor((windowWidth - boxWidth) / 2);
+	boxOffsetHeight = Math.floor((windowHeight - boxHeight) / 2);
+	resizeCanvas(windowWidth, windowHeight);
+	stars = []
+}
+
+function draw(){
+	background(0)
+
+	for (let idx = 0; stars.length < numstars; idx++) {
+		stars.push(new Star())
+	}
+
+	for (let idx = 0; idx < stars.length; idx++){
+		stars[idx].update()
+
+		if (stars[idx].isOffScreen()){
+			stars[idx] = new Star(0)
+		}
+	}
+
+// fill(50, 50, 50)
+// rect(boxOffsetWidth, boxOffsetHeight, boxWidth, boxHeight)
+
+	textSize(25)
+	textFont('Joystix')
+	textAlign(CENTER)
+
+	fill(255, 0, 0)
+	text("TOTAL SATS", boxWidth / 2 + boxOffsetWidth, boxOffsetHeight + 40)
+
+	fill(255, 255, 255)
+	text("69,000,000", boxWidth / 2 + boxOffsetWidth, boxOffsetHeight + 70)
+
+	fill(0, 255, 255)
+	text([
+		"@TJUNTA BOOSTED 777 SATS SAYING",
+		"\"NOW THAT'S WHAT I CALL VALUE!\"",
+		"VIA FOUNTAIN",
+	].join("\n"), boxWidth/2 + boxOffsetWidth, boxOffsetHeight + 110)
+
+	let boosters = new Scoreboard("- TOP BOOSTERS -")
+	boosters.addScore("PETAR", 1000000);
+	boosters.addScore("TJUNTA", 500000);
+	boosters.addScore("MARYKATE", 333333);
+	boosters.addScore("LAURIEN", 222222);
+	boosters.addScore("DAISY", 111111);
+	boosters.draw(boxOffsetWidth, boxOffsetHeight + 240, boxWidth)
+
+	let apps = new Scoreboard("- TOP APPS -")
+	apps.addScore("PODVERSE", 1000000);
+	apps.addScore("PODCAST GURU", 500000);
+	apps.addScore("FOUNTAIN", 333333);
+	apps.draw(boxOffsetWidth, boxOffsetHeight + 510, boxWidth)
+}
+
+function Star(top){
+	this.pos = createVector(random(width), top === undefined ? random(height) : top)
+	this.vel = createVector(0, 2)
+	this.pick = random(360)
+	this.alpha = Math.round(random(4)) / 4
+	this.size = 3
+
+	this.update = function(){
+		this.pos.add(this.vel)
+		this.display()
+	}
+	
+	this.display = function(){
+		push()
+		strokeWeight(0)
+		colorMode(HSB)
+
+		fill(this.pick, 100, 100, this.alpha)
+		rect(this.pos.x, this.pos.y, this.size, this.size)
+
+		colorMode(RGB)
+		pop()
+	}
+	
+	this.isOffScreen = function(){
+		return (this.pos.y >= height)
+	}
+}
+
+
+function Score(name, amount) {
+	this.name = name
+	this.amount = amount
+}
+
+function Scoreboard(title, scores) {
+	this.title = title;
+	this.scores = scores || []
+
+	this.addScore = function(name, amount) {
+		this.scores.push(new Score(name, amount))
+	}
+
+	this.getHeight = function() {
+		return this.scores.length * (textSize() + 5) + 80
+	}
+
+	this.draw = function(x, y, width) {
+		push()
+		textSize(25)
+
+		textAlign(CENTER)
+		fill(255, 0, 0)
+		text(this.title, width/2 + x, y)
+
+		textAlign(LEFT)
+		fill(0, 255, 255)
+
+		const places = []
+		for (let idx = 1; idx <= this.scores.length; idx++) {
+			if (idx == 1) places.push('1ST');
+			else if (idx == 2) places.push('2ND');
+			else if (idx == 3) places.push('3RD');
+			else places.push(idx + 'TH');
+		}
+
+		text(
+			places.join("\n"),
+			x + 40,
+			y + 80
+		)
+
+		text("SCORE", width/2 + x - 120, y + 40);
+		text(
+			this.scores.map(score => score.amount.toLocaleString()).join("\n"),
+			width/2 + x - 120,
+			y + 80
+		)
+
+		textAlign(RIGHT)
+		text("NAME", width + x - 40, y + 40);
+		text(
+			this.scores.map(score => score.name.toUpperCase()).join("\n"),
+			x + width - 40,
+			y + 80
+		)
+		pop()
+	}
+}
+	</script>
+</body>
+</html>
