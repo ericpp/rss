@@ -24,8 +24,8 @@
       <itunes:email>ericpp@no.email.plz</itunes:email>
     </itunes:owner>
     <itunes:author>ericpp</itunes:author>
-    <pubDate>Sat, 2 Mar 2024 02:02:00 +0000</pubDate>
-    <lastBuildDate>Sat, 2 Mar 2024 02:02:00 +0000</lastBuildDate>
+    <pubDate>Sat, 2 Mar 2024 03:02:00 +0000</pubDate>
+    <lastBuildDate>Sat, 2 Mar 2024 03:02:00 +0000</lastBuildDate>
     <category>Music</category>
     <podcast:guid>608c870a-125c-466d-a56e-8f5a3fb1def7</podcast:guid>
     <podcast:value type="lightning" method="keysend">
@@ -46,7 +46,7 @@
       </podcast:value>
       <itunes:subtitle>Test</itunes:subtitle>
       <link>https://ericpp.github.io/rss/</link>
-      <pubDate>Sat, 2 Mar 2024 02:02:00 +0000</pubDate>
+      <pubDate>Sat, 2 Mar 2024 03:02:00 +0000</pubDate>
       <author>ericpp@no.email.plz (ericpp)</author>
       <itunes:author>ericpp</itunes:author>
       <itunes:keywords>pew, test, stuff</itunes:keywords>
