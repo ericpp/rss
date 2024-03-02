@@ -1,11 +1,11 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" version="2.0">
   <channel>
     <title>Pew Pew Test Stuff</title>
     <description>Test Show for Testing Stuff</description>
     <language>en</language>
-    <atom:link href="https://ericpp.github.io/rss/test.xml" rel="self" type="application/rss+xml" />
     <itunes:image href="https://ericpp.github.io/rss/test.jpg"/>
     <link>https://ericpp.github.io/rss/</link>
+    <generator>Sovereign Feeds</generator>
     <image>
       <url>https://ericpp.github.io/rss/test.jpg</url>
       <link>https://ericpp.github.io/rss/</link>
@@ -15,43 +15,40 @@
       <height>144</height>
     </image>
     <itunes:category text="Music"/>
+    <itunes:category text=""/>
     <podcast:medium>music</podcast:medium>
     <podcast:images srcset="https://ericpp.github.io/rss/test.jpg 500w"/>
     <podcast:complete>no</podcast:complete>
     <podcast:block>no</podcast:block>
     <itunes:owner>
-      <itunes:name>ericpp</itunes:name>
-      <itunes:email>ericpp@no.email.plz</itunes:email>
+      <itunes:email/>
+      <itunes:name/>
     </itunes:owner>
     <itunes:author>ericpp</itunes:author>
-    <pubDate>Thu, 25 Jan 2024 03:01:52 +0000</pubDate>
-    <lastBuildDate>Thu, 1 Feb 2024 03:03:52 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Mar 2024 02:59:02 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Mar 2024 02:59:02 +0000</lastBuildDate>
     <category>Music</category>
+    <category/>
     <podcast:guid>ca8b0870-47df-4432-89d5-8ad60ca3f577</podcast:guid>
-    <podcast:value type="lightning" method="keysend">
+    <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
       <podcast:valueRecipient name="Pew Pew Pew!" type="node" address="039dce5f4f268060d7128267caba658a7e8cd0effaeb81f0daeef843ce2b22110d" split="100"/>
     </podcast:value>
-    <itunes:keywords>pew,test,show</itunes:keywords>
-    <managingEditor>ericpp@no.email.plz (ericpp)</managingEditor>
-    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Test track #1</title>
-      <description><![CDATA[Test track #1 for testing stuff]]></description>
+      <description><![CDATA[<p>Test track #1 for testing stuff</p>]]></description>
       <itunes:image href="https://ericpp.github.io/rss/test.jpg"/>
-      <enclosure url="https://ericpp.github.io/rss/test.mp3" type="audio/mpeg" length="147802"/>
+      <enclosure url="https://ericpp.github.io/rss/test.mp3" length="147802" type="audio/mpeg"/>
       <podcast:images srcset="https://ericpp.github.io/rss/test.jpg 500w"/>
       <guid isPermaLink="false">2bd231ba-ebfe-4966-94b6-c9efa2768470</guid>
-      <podcast:value type="lightning" method="keysend">
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
         <podcast:valueRecipient name="Pew Pew Pew!" type="node" address="039dce5f4f268060d7128267caba658a7e8cd0effaeb81f0daeef843ce2b22110d" split="100"/>
       </podcast:value>
-      <itunes:subtitle>Test</itunes:subtitle>
+      <itunes:subtitle>Test track #1</itunes:subtitle>
+      <itunes:duration>16</itunes:duration>
       <link>https://ericpp.github.io/rss/</link>
       <pubDate>Thu, 25 Jan 2024 03:01:52 +0000</pubDate>
-      <author>ericpp@no.email.plz (ericpp)</author>
-      <itunes:author>ericpp</itunes:author>
-      <itunes:keywords>pew, test, stuff</itunes:keywords>
-      <itunes:summary><![CDATA[Test track #1 for testing stuff]]></itunes:summary>
-      <itunes:duration>16</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary><![CDATA[<p>Test track #1 for testing stuff</p>]]></itunes:summary>
     </item>
   </channel>
 </rss>
