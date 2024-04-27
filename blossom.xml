@@ -1,0 +1,54 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" version="2.0">
+  <channel>
+    <title>Blossom Test - Please ignore</title>
+    <description>Testing out Blossom for hosting podcast mp3s</description>
+    <language>en</language>
+    <itunes:image href="https://blob.satellite.earth/44870c87976386d9c867ddc0d8e61ebe0a2b8dc00c02609075bcff23eb958b2d"/>
+    <link>https://podcastindex.social/@ericpp</link>
+    <generator>Sovereign Feeds</generator>
+    <image>
+      <url>https://blob.satellite.earth/44870c87976386d9c867ddc0d8e61ebe0a2b8dc00c02609075bcff23eb958b2d</url>
+      <link>https://podcastindex.social/@ericpp</link>
+      <title>Blossom Test</title>
+      <description>Blossom Test</description>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <itunes:category text="Music"/>
+    <itunes:category text=""/>
+    <podcast:medium>music</podcast:medium>
+    <podcast:images srcset="https://blob.satellite.earth/44870c87976386d9c867ddc0d8e61ebe0a2b8dc00c02609075bcff23eb958b2d 500w"/>
+    <podcast:complete>no</podcast:complete>
+    <podcast:block>no</podcast:block>
+    <itunes:owner>
+      <itunes:email/>
+      <itunes:name/>
+    </itunes:owner>
+    <itunes:author>ericpp</itunes:author>
+    <pubDate>Sat, 27 Apr 2024 18:00:02 +0000</pubDate>
+    <lastBuildDate>Sat, 27 Apr 2024 18:00:02 +0000</lastBuildDate>
+    <category>Music</category>
+    <category/>
+    <podcast:guid>4352473a-202f-46d0-b7d0-01bb190ef399</podcast:guid>
+    <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+      <podcast:valueRecipient name="Pew Pew Pew!" type="node" address="039dce5f4f268060d7128267caba658a7e8cd0effaeb81f0daeef843ce2b22110d" split="100"/>
+    </podcast:value>
+    <item>
+      <title>Test track #1</title>
+      <description><![CDATA[<p>Testing out Blossom for hosting podcast mp3s</p>]]></description>
+      <itunes:image href="https://blob.satellite.earth/44870c87976386d9c867ddc0d8e61ebe0a2b8dc00c02609075bcff23eb958b2d"/>
+      <enclosure url="https://blob.satellite.earth/567771169059e6f6446567c17ee5405652e512aad7b21adb2cd1fc4120bb2f66" length="74576" type="audio/mpeg"/>
+      <podcast:images srcset="https://blob.satellite.earth/44870c87976386d9c867ddc0d8e61ebe0a2b8dc00c02609075bcff23eb958b2d 500w"/>
+      <guid isPermaLink="false">7b8c49b3-4478-4d6b-85c0-517724d20619</guid>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Pew Pew Pew!" type="node" address="039dce5f4f268060d7128267caba658a7e8cd0effaeb81f0daeef843ce2b22110d" split="100"/>
+      </podcast:value>
+      <itunes:subtitle>Test track #1</itunes:subtitle>
+      <itunes:duration>8</itunes:duration>
+      <link>https://podcastindex.social/@ericpp</link>
+      <pubDate>Sat, 27 Apr 2024 18:00:02 +0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary><![CDATA[<p>Testing out Blossom for hosting podcast mp3s</p>]]></itunes:summary>
+    </item>
+  </channel>
+</rss>
