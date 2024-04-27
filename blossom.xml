@@ -37,7 +37,7 @@
       <title>Test track #1</title>
       <description><![CDATA[<p>Testing out Blossom for hosting podcast mp3s</p>]]></description>
       <itunes:image href="https://blob.satellite.earth/44870c87976386d9c867ddc0d8e61ebe0a2b8dc00c02609075bcff23eb958b2d"/>
-      <enclosure url="https://blob.satellite.earth/567771169059e6f6446567c17ee5405652e512aad7b21adb2cd1fc4120bb2f66" length="74576" type="audio/mpeg"/>
+      <enclosure url="https://blob.satellite.earth/9fbcb7c5f6595ed8f42b47a3ba00cf0014cbc270b46393a790ce96129e4d3a4c" length="92878" type="audio/mpeg"/>
       <podcast:images srcset="https://blob.satellite.earth/44870c87976386d9c867ddc0d8e61ebe0a2b8dc00c02609075bcff23eb958b2d 500w"/>
       <guid isPermaLink="false">7b8c49b3-4478-4d6b-85c0-517724d20619</guid>
       <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
