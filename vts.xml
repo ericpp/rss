@@ -19,9 +19,10 @@
     <podcast:medium>podcast</podcast:medium>
     <podcast:images srcset="https://ericpp.github.io/rss/vts.png 500w"/>
     <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-      <podcast:valueRecipient name="ericpp@getalby.com" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="GzcSSSNQ5p7Ymhxa6q5e" split="50"/>
+      <!--<podcast:valueRecipient name="ericpp@getalby.com" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="GzcSSSNQ5p7Ymhxa6q5e" split="50"/>
       <podcast:valueRecipient name="Alby Hub Wallet 1" type="node" address="02c7bb6f29f09d92d40d62d64443b688891259dea324406b4678df6235794f24bf" customKey="696969" customValue="15" split="25"/>
-      <podcast:valueRecipient name="Alby Hub Wallet 2" type="node" address="02c7bb6f29f09d92d40d62d64443b688891259dea324406b4678df6235794f24bf" customKey="696969" customValue="18" split="25"/>
+      <podcast:valueRecipient name="Alby Hub Wallet 2" type="node" address="02c7bb6f29f09d92d40d62d64443b688891259dea324406b4678df6235794f24bf" customKey="696969" customValue="18" split="25"/>-->
+      <podcast:valueRecipient name="Culture Convergence" type="node" address="03f22295b13ab5f3abe8a2cdd1c7508402092d0bff2912df8c2c5b971bc519e8f3" split="100"/>
     </podcast:value>
     <podcast:complete>no</podcast:complete>
     <podcast:block>no</podcast:block>
@@ -41,8 +42,9 @@
       <enclosure url="https://ericpp.github.io/rss/test.mp3" length="147802" type="audio/mpeg"/>
       <podcast:images srcset="https://ericpp.github.io/rss/vts.png 500w"/>
       <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-        <podcast:valueRecipient name="ericpp@getalby.com" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="GzcSSSNQ5p7Ymhxa6q5e" split="50"/>
-        <podcast:valueRecipient name="Alby Hub" type="node" address="02c7bb6f29f09d92d40d62d64443b688891259dea324406b4678df6235794f24bf" split="50"/>
+        <!--<podcast:valueRecipient name="ericpp@getalby.com" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="GzcSSSNQ5p7Ymhxa6q5e" split="50"/>
+        <podcast:valueRecipient name="Alby Hub" type="node" address="02c7bb6f29f09d92d40d62d64443b688891259dea324406b4678df6235794f24bf" split="50"/>-->
+        <podcast:valueRecipient name="Culture Convergence" type="node" address="03f22295b13ab5f3abe8a2cdd1c7508402092d0bff2912df8c2c5b971bc519e8f3" split="100"/>
         <podcast:valueTimeSplit startTime="1" duration="15" remotePercentage="90">
           <podcast:remoteItem feedGuid="ca8b0870-47df-4432-89d5-8ad60ca3f577" itemGuid="2bd231ba-ebfe-4966-94b6-c9efa2768470"/>
         </podcast:valueTimeSplit>
