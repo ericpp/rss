@@ -31,7 +31,7 @@
     <category/>
     <podcast:guid>ca8b0870-47df-4432-89d5-8ad60ca3f577</podcast:guid>
     <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-      <podcast:valueRecipient name="Pew Pew Pew!" type="node" address="039dce5f4f268060d7128267caba658a7e8cd0effaeb81f0daeef843ce2b22110d" split="100"/>
+      <podcast:valueRecipient name="Pew Pew Pew!" type="node" address="039dce5f4f268060d7128267caba658a7e8cd0effaeb81f0daeef843ce2b22110d" customKey="696969" customValue="29" split="100"/>
     </podcast:value>
     <item>
       <title>Test track #1</title>
@@ -41,7 +41,7 @@
       <podcast:images srcset="https://ericpp.github.io/rss/test.jpg 500w"/>
       <guid isPermaLink="false">2bd231ba-ebfe-4966-94b6-c9efa2768470</guid>
       <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-        <podcast:valueRecipient name="Pew Pew Pew!" type="node" address="039dce5f4f268060d7128267caba658a7e8cd0effaeb81f0daeef843ce2b22110d" split="100"/>
+        <podcast:valueRecipient name="Pew Pew Pew!" type="node" address="039dce5f4f268060d7128267caba658a7e8cd0effaeb81f0daeef843ce2b22110d" customKey="696969" customValue="29" split="100"/>
       </podcast:value>
       <itunes:subtitle>Test track #1</itunes:subtitle>
       <itunes:duration>16</itunes:duration>
