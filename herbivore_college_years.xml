@@ -27,142 +27,26 @@
       <podcast:valueRecipient name="RSS Blue" customKey="696969" customValue="JNhG48KDpK6UH6AjmhhJ" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="2"></podcast:valueRecipient>
     </podcast:value>
     <item>
-      <title><![CDATA[Smokestacks]]></title>
-      <link>https://www.wavlake.com/album/328f61b9-20b1-4338-9e2a-b437abc39f7b</link>
-      <guid isPermaLink="false">52007112-2772-42f9-957a-a93eaeedb222</guid>
-      <dc:creator><![CDATA[Herbivore]]></dc:creator>
-      <pubDate>Tue, 14 Nov 2023 02:29:06 GMT</pubDate>
-      <enclosure url="https://op3.dev/e,pg=dea01a9d-a024-5b13-84aa-b157304cd3bc/https://d12wklypp119aj.cloudfront.net/track/52007112-2772-42f9-957a-a93eaeedb222.mp3" length="4627307" type="audio/mpeg"/>
-      <podcast:episode>1</podcast:episode>
-      <podcast:season>1</podcast:season>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Herbivore via Wavlake" type="node" address="02682b7c86f474d082fa9d274c3751291225448468691784c6f112187de975a8c2" customKey="16180339" customValue="52007112-2772-42f9-957a-a93eaeedb222" split="100"/>
-      </podcast:value>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:03:21</itunes:duration>
-    </item>
-    <item>
-      <description><![CDATA[<p>My Crutch, recorded live at Bands at Bitcoin in Nashville, July 2024.  This is off their 2017 release, &quot;The College Years.&quot;</p>
+      <description><![CDATA[<p><a target="_blank" rel="noopener" href="http://www.herbivoreband.com">www.herbivoreband.com</a></p>
 ]]></description>
-      <enclosure url="https://op3.dev/e,pg=78a0f2e4-c466-5efb-aef6-b5f21c83d4b9/media.rssblue.com/podcasts/my-crutch-live-from-bands-at-bitcoin/my-crutch-live-from-bands-at-bitcoin/audio.herbivore-my-crutch-nashville.mp3" length="9564608" type="audio/mpeg"></enclosure>
-      <guid isPermaLink="false">aaa20f26-7fef-5e2e-9ce3-7542667b2d22</guid>
-      <link>https://www.instagram.com/herbivore_band/</link>
-      <pubDate>Wed, 28 Aug 2024 05:59:48 GMT</pubDate>
-      <title>My Crutch - Live from Bands at Bitcoin</title>
-      <itunes:duration>239</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.rssblue.com/podcasts/my-crutch-live-from-bands-at-bitcoin/cover-art.college-years-front-live.jpg"></itunes:image>
-      <podcast:isrc>QZNWZ2035192</podcast:isrc>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Herbivore" customKey="906608" customValue="01rzBhyoJNEvCsD9uGiJrz" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="92"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Phantom Power Music" customKey="696969" customValue="aBpWlXR7oKOAYjr21Elk" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="5"></podcast:valueRecipient>
-        <podcast:valueRecipient name="RSS Blue" customKey="696969" customValue="JNhG48KDpK6UH6AjmhhJ" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="2"></podcast:valueRecipient>
-        <podcast:valueRecipient name="OP3" customKey="696969" customValue="x3VXZtbcfIBVLIUqzWKV" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="1"></podcast:valueRecipient>
-      </podcast:value>
-    </item>
-    <item>
-      <description><![CDATA[<p>Herbivore - Dopesick</p>
-]]></description>
-      <enclosure url="https://media.rssblue.com/podcasts/dopesick/dopesick/audio.04-herbivore-dopesick.mp3" length="10893319" type="audio/mpeg"></enclosure>
-      <guid isPermaLink="false">68163b12-d849-53d8-b0c3-417b0ba2d781</guid>
+      <enclosure url="https://media.rssblue.com/podcasts/these-days/these-days/audio.12-herbivore-these-days.mp3" length="13457288" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">9d4389c6-5e6d-5f45-bbd7-d49e43f6414b</guid>
       <link>https://www.herbivoreband.com</link>
-      <pubDate>Tue, 16 Jul 2024 03:48:58 GMT</pubDate>
-      <title>Dopesick</title>
-      <itunes:duration>229</itunes:duration>
+      <pubDate>Sun, 12 May 2024 00:13:22 GMT</pubDate>
+      <title>These Days</title>
+      <itunes:duration>335</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.rssblue.com/podcasts/dopesick/cover-art.coverart-thecollegeyears.jpg"></itunes:image>
-      <podcast:isrc>QM4DW1746090</podcast:isrc>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Herbivore Fountain" customKey="906608" customValue="01rzBhyoJNEvCsD9uGiJrz" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="87"></podcast:valueRecipient>
-        <podcast:valueRecipient name="herbiNode" type="node" address="0398c77fb88de006b11fe39776fc6e7123fa3b73e0bd5a7584a79819d6064436a0" split="10"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Podcast Index" type="node" address="03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="RSS Blue" customKey="696969" customValue="JNhG48KDpK6UH6AjmhhJ" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="2"></podcast:valueRecipient>
-      </podcast:value>
-    </item>
-    <item>
-      <description><![CDATA[<p>from The College Years</p>
-]]></description>
-      <enclosure url="https://media.rssblue.com/podcasts/ive-tried/ive-tried/audio.05-herbivore-ive-tried.mp3" length="10202096" type="audio/mpeg"></enclosure>
-      <guid isPermaLink="false">5a885815-6752-5612-b96b-4964b95b86ae</guid>
-      <link>https://www.herbivoreband.com</link>
-      <pubDate>Thu, 22 Feb 2024 04:38:03 GMT</pubDate>
-      <title>I&#39;ve Tried</title>
-      <itunes:duration>253</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.rssblue.com/podcasts/ive-tried/cover-art.tcy-herb-3.jpg"></itunes:image>
-      <podcast:isrc>QM4DW1746091</podcast:isrc>
-      <podcast:transcript url="https://media.rssblue.com/podcasts/ive-tried/ive-tried/transcript.ivetried.txt" type="text/plain"></podcast:transcript>
+      <itunes:image href="https://media.rssblue.com/podcasts/these-days/cover-art.coverart-thecollegeyears.jpg"></itunes:image>
+      <podcast:isrc>QM4DW1746098</podcast:isrc>
+      <podcast:transcript url="https://media.rssblue.com/podcasts/these-days/these-days/transcript.thesedays.txt" type="text/plain"></podcast:transcript>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Herbivore" customKey="696969" customValue="gfzMTk6xSLbFzSaY5jVh" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="87"></podcast:valueRecipient>
         <podcast:valueRecipient name="herbiNode" type="node" address="0398c77fb88de006b11fe39776fc6e7123fa3b73e0bd5a7584a79819d6064436a0" split="10"></podcast:valueRecipient>
         <podcast:valueRecipient name="Podcast Index" type="node" address="03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a" split="1"></podcast:valueRecipient>
         <podcast:valueRecipient name="RSS Blue" customKey="696969" customValue="JNhG48KDpK6UH6AjmhhJ" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="2"></podcast:valueRecipient>
       </podcast:value>
-    </item>
-    <item>
-      <description><![CDATA[<p>www.herbivoreband.com</p>
-]]></description>
-      <enclosure url="https://media.rssblue.com/podcasts/campfire-remedy/campfire-remedy/audio.08-herbivore-campfire-remedy.mp3" length="9057872" type="audio/mpeg"></enclosure>
-      <guid isPermaLink="false">2b3b6b73-56d4-53bf-8cde-b858ecefb6df</guid>
-      <link>https://www.herbivoreband.com</link>
-      <pubDate>Mon, 11 Mar 2024 15:08:20 GMT</pubDate>
-      <title>Campfire Remedy</title>
-      <itunes:duration>225</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.rssblue.com/podcasts/campfire-remedy/cover-art.tcy-herb-3.jpg"></itunes:image>
-      <podcast:isrc>QM4DW1746094</podcast:isrc>
-      <podcast:transcript url="https://media.rssblue.com/podcasts/campfire-remedy/campfire-remedy/transcript.campfireremedy.txt" type="text/plain"></podcast:transcript>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Herbivore" customKey="696969" customValue="gfzMTk6xSLbFzSaY5jVh" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="87"></podcast:valueRecipient>
-        <podcast:valueRecipient name="herbiNode" type="node" address="0398c77fb88de006b11fe39776fc6e7123fa3b73e0bd5a7584a79819d6064436a0" split="10"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Podcast Index &#34;The 2&#34;" type="node" address="03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="RSS Blue" customKey="696969" customValue="JNhG48KDpK6UH6AjmhhJ" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="2"></podcast:valueRecipient>
-      </podcast:value>
-    </item>
-    <item>
-      <title><![CDATA[Drifts]]></title>
-      <link>https://www.wavlake.com/album/0d32102a-9975-4180-b63d-09fb8f676464</link>
-      <guid isPermaLink="false">d8ea8ac9-46c9-4f40-9637-ed9a3bf59886</guid>
-      <dc:creator><![CDATA[Herbivore]]></dc:creator>
-      <pubDate>Wed, 21 Feb 2024 15:21:04 GMT</pubDate>
-      <enclosure url="https://op3.dev/e,pg=8c31f9f7-5f62-5c85-a65c-b2f50c30fb69/https://d12wklypp119aj.cloudfront.net/track/d8ea8ac9-46c9-4f40-9637-ed9a3bf59886.mp3" length="5720060" type="audio/mpeg"/>
-      <podcast:episode>1</podcast:episode>
+      <podcast:episode>10</podcast:episode>
       <podcast:season>1</podcast:season>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Herbivore via Wavlake" type="node" address="02682b7c86f474d082fa9d274c3751291225448468691784c6f112187de975a8c2" customKey="16180339" customValue="d8ea8ac9-46c9-4f40-9637-ed9a3bf59886" split="100"/>
-      </podcast:value>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:04:04</itunes:duration>
-    </item>
-    <item>
-      <title><![CDATA[Empty Water Bottles]]></title>
-      <link>https://www.wavlake.com/album/ed5ba51a-7b87-4a67-81a4-71f64b71c5f3</link>
-      <guid isPermaLink="false">d2126f79-eb38-44da-8da0-6c69341f7bff</guid>
-      <dc:creator><![CDATA[Herbivore]]></dc:creator>
-      <pubDate>Sun, 10 Dec 2023 19:01:15 GMT</pubDate>
-      <enclosure url="https://op3.dev/e,pg=9ca21720-bc9e-5280-8620-d3e89c855ca4/https://d12wklypp119aj.cloudfront.net/track/d2126f79-eb38-44da-8da0-6c69341f7bff.mp3" length="5386964" type="audio/mpeg"/>
-      <podcast:episode>1</podcast:episode>
-      <podcast:season>1</podcast:season>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Herbivore via Wavlake" type="node" address="02682b7c86f474d082fa9d274c3751291225448468691784c6f112187de975a8c2" customKey="16180339" customValue="d2126f79-eb38-44da-8da0-6c69341f7bff" split="100"/>
-      </podcast:value>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:03:42</itunes:duration>
-    </item>
-    <item>
-      <title><![CDATA[Grips]]></title>
-      <link>https://www.wavlake.com/album/69b81129-7f86-43bd-94fc-891c555ce5e3</link>
-      <guid isPermaLink="false">d7c97ea7-3d74-46df-a16f-1fca8baec90a</guid>
-      <dc:creator><![CDATA[Herbivore]]></dc:creator>
-      <pubDate>Tue, 28 Nov 2023 02:59:32 GMT</pubDate>
-      <enclosure url="https://op3.dev/e,pg=d55dfeed-ecfa-57fa-a877-0a8c4ff36b55/https://d12wklypp119aj.cloudfront.net/track/d7c97ea7-3d74-46df-a16f-1fca8baec90a.mp3" length="7744601" type="audio/mpeg"/>
-      <podcast:episode>1</podcast:episode>
-      <podcast:season>1</podcast:season>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Herbivore via Wavlake" type="node" address="02682b7c86f474d082fa9d274c3751291225448468691784c6f112187de975a8c2" customKey="16180339" customValue="d7c97ea7-3d74-46df-a16f-1fca8baec90a" split="100"/>
-      </podcast:value>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:05:34</itunes:duration>
     </item>
     <item>
       <description><![CDATA[<p><a target="_blank" rel="noopener" href="http://www.herbivoreband.com">www.herbivoreband.com</a></p>
@@ -183,26 +67,154 @@
         <podcast:valueRecipient name="Podcast Index" type="node" address="03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a" split="1"></podcast:valueRecipient>
         <podcast:valueRecipient name="RSS Blue" customKey="696969" customValue="JNhG48KDpK6UH6AjmhhJ" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="2"></podcast:valueRecipient>
       </podcast:value>
+      <podcast:episode>9</podcast:episode>
+      <podcast:season>1</podcast:season>
     </item>
     <item>
-      <description><![CDATA[<p><a target="_blank" rel="noopener" href="http://www.herbivoreband.com">www.herbivoreband.com</a></p>
-]]></description>
-      <enclosure url="https://media.rssblue.com/podcasts/these-days/these-days/audio.12-herbivore-these-days.mp3" length="13457288" type="audio/mpeg"></enclosure>
-      <guid isPermaLink="false">9d4389c6-5e6d-5f45-bbd7-d49e43f6414b</guid>
-      <link>https://www.herbivoreband.com</link>
-      <pubDate>Sun, 12 May 2024 00:13:22 GMT</pubDate>
-      <title>These Days</title>
-      <itunes:duration>335</itunes:duration>
+      <title><![CDATA[Grips]]></title>
+      <link>https://www.wavlake.com/album/69b81129-7f86-43bd-94fc-891c555ce5e3</link>
+      <guid isPermaLink="false">d7c97ea7-3d74-46df-a16f-1fca8baec90a</guid>
+      <dc:creator><![CDATA[Herbivore]]></dc:creator>
+      <pubDate>Tue, 28 Nov 2023 02:59:32 GMT</pubDate>
+      <enclosure url="https://op3.dev/e,pg=d55dfeed-ecfa-57fa-a877-0a8c4ff36b55/https://d12wklypp119aj.cloudfront.net/track/d7c97ea7-3d74-46df-a16f-1fca8baec90a.mp3" length="7744601" type="audio/mpeg"/>
+      <podcast:episode>8</podcast:episode>
+      <podcast:season>1</podcast:season>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Herbivore via Wavlake" type="node" address="02682b7c86f474d082fa9d274c3751291225448468691784c6f112187de975a8c2" customKey="16180339" customValue="d7c97ea7-3d74-46df-a16f-1fca8baec90a" split="100"/>
+      </podcast:value>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.rssblue.com/podcasts/these-days/cover-art.coverart-thecollegeyears.jpg"></itunes:image>
-      <podcast:isrc>QM4DW1746098</podcast:isrc>
-      <podcast:transcript url="https://media.rssblue.com/podcasts/these-days/these-days/transcript.thesedays.txt" type="text/plain"></podcast:transcript>
+      <itunes:duration>00:05:34</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Empty Water Bottles]]></title>
+      <link>https://www.wavlake.com/album/ed5ba51a-7b87-4a67-81a4-71f64b71c5f3</link>
+      <guid isPermaLink="false">d2126f79-eb38-44da-8da0-6c69341f7bff</guid>
+      <dc:creator><![CDATA[Herbivore]]></dc:creator>
+      <pubDate>Sun, 10 Dec 2023 19:01:15 GMT</pubDate>
+      <enclosure url="https://op3.dev/e,pg=9ca21720-bc9e-5280-8620-d3e89c855ca4/https://d12wklypp119aj.cloudfront.net/track/d2126f79-eb38-44da-8da0-6c69341f7bff.mp3" length="5386964" type="audio/mpeg"/>
+      <podcast:episode>7</podcast:episode>
+      <podcast:season>1</podcast:season>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Herbivore via Wavlake" type="node" address="02682b7c86f474d082fa9d274c3751291225448468691784c6f112187de975a8c2" customKey="16180339" customValue="d2126f79-eb38-44da-8da0-6c69341f7bff" split="100"/>
+      </podcast:value>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:03:42</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Drifts]]></title>
+      <link>https://www.wavlake.com/album/0d32102a-9975-4180-b63d-09fb8f676464</link>
+      <guid isPermaLink="false">d8ea8ac9-46c9-4f40-9637-ed9a3bf59886</guid>
+      <dc:creator><![CDATA[Herbivore]]></dc:creator>
+      <pubDate>Wed, 21 Feb 2024 15:21:04 GMT</pubDate>
+      <enclosure url="https://op3.dev/e,pg=8c31f9f7-5f62-5c85-a65c-b2f50c30fb69/https://d12wklypp119aj.cloudfront.net/track/d8ea8ac9-46c9-4f40-9637-ed9a3bf59886.mp3" length="5720060" type="audio/mpeg"/>
+      <podcast:episode>6</podcast:episode>
+      <podcast:season>1</podcast:season>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Herbivore via Wavlake" type="node" address="02682b7c86f474d082fa9d274c3751291225448468691784c6f112187de975a8c2" customKey="16180339" customValue="d8ea8ac9-46c9-4f40-9637-ed9a3bf59886" split="100"/>
+      </podcast:value>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:04:04</itunes:duration>
+    </item>
+    <item>
+      <description><![CDATA[<p>www.herbivoreband.com</p>
+]]></description>
+      <enclosure url="https://media.rssblue.com/podcasts/campfire-remedy/campfire-remedy/audio.08-herbivore-campfire-remedy.mp3" length="9057872" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">2b3b6b73-56d4-53bf-8cde-b858ecefb6df</guid>
+      <link>https://www.herbivoreband.com</link>
+      <pubDate>Mon, 11 Mar 2024 15:08:20 GMT</pubDate>
+      <title>Campfire Remedy</title>
+      <itunes:duration>225</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.rssblue.com/podcasts/campfire-remedy/cover-art.tcy-herb-3.jpg"></itunes:image>
+      <podcast:isrc>QM4DW1746094</podcast:isrc>
+      <podcast:transcript url="https://media.rssblue.com/podcasts/campfire-remedy/campfire-remedy/transcript.campfireremedy.txt" type="text/plain"></podcast:transcript>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Herbivore" customKey="696969" customValue="gfzMTk6xSLbFzSaY5jVh" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="87"></podcast:valueRecipient>
+        <podcast:valueRecipient name="herbiNode" type="node" address="0398c77fb88de006b11fe39776fc6e7123fa3b73e0bd5a7584a79819d6064436a0" split="10"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Podcast Index &#34;The 2&#34;" type="node" address="03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="RSS Blue" customKey="696969" customValue="JNhG48KDpK6UH6AjmhhJ" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="2"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:episode>5</podcast:episode>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <description><![CDATA[<p>from The College Years</p>
+]]></description>
+      <enclosure url="https://media.rssblue.com/podcasts/ive-tried/ive-tried/audio.05-herbivore-ive-tried.mp3" length="10202096" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">5a885815-6752-5612-b96b-4964b95b86ae</guid>
+      <link>https://www.herbivoreband.com</link>
+      <pubDate>Thu, 22 Feb 2024 04:38:03 GMT</pubDate>
+      <title>I&#39;ve Tried</title>
+      <itunes:duration>253</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.rssblue.com/podcasts/ive-tried/cover-art.tcy-herb-3.jpg"></itunes:image>
+      <podcast:isrc>QM4DW1746091</podcast:isrc>
+      <podcast:transcript url="https://media.rssblue.com/podcasts/ive-tried/ive-tried/transcript.ivetried.txt" type="text/plain"></podcast:transcript>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Herbivore" customKey="696969" customValue="gfzMTk6xSLbFzSaY5jVh" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="87"></podcast:valueRecipient>
         <podcast:valueRecipient name="herbiNode" type="node" address="0398c77fb88de006b11fe39776fc6e7123fa3b73e0bd5a7584a79819d6064436a0" split="10"></podcast:valueRecipient>
         <podcast:valueRecipient name="Podcast Index" type="node" address="03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a" split="1"></podcast:valueRecipient>
         <podcast:valueRecipient name="RSS Blue" customKey="696969" customValue="JNhG48KDpK6UH6AjmhhJ" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="2"></podcast:valueRecipient>
       </podcast:value>
+      <podcast:episode>4</podcast:episode>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <description><![CDATA[<p>Herbivore - Dopesick</p>
+]]></description>
+      <enclosure url="https://media.rssblue.com/podcasts/dopesick/dopesick/audio.04-herbivore-dopesick.mp3" length="10893319" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">68163b12-d849-53d8-b0c3-417b0ba2d781</guid>
+      <link>https://www.herbivoreband.com</link>
+      <pubDate>Tue, 16 Jul 2024 03:48:58 GMT</pubDate>
+      <title>Dopesick</title>
+      <itunes:duration>229</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.rssblue.com/podcasts/dopesick/cover-art.coverart-thecollegeyears.jpg"></itunes:image>
+      <podcast:isrc>QM4DW1746090</podcast:isrc>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Herbivore Fountain" customKey="906608" customValue="01rzBhyoJNEvCsD9uGiJrz" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="87"></podcast:valueRecipient>
+        <podcast:valueRecipient name="herbiNode" type="node" address="0398c77fb88de006b11fe39776fc6e7123fa3b73e0bd5a7584a79819d6064436a0" split="10"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Podcast Index" type="node" address="03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="RSS Blue" customKey="696969" customValue="JNhG48KDpK6UH6AjmhhJ" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="2"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:episode>3</podcast:episode>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <description><![CDATA[<p>My Crutch, recorded live at Bands at Bitcoin in Nashville, July 2024.  This is off their 2017 release, &quot;The College Years.&quot;</p>
+]]></description>
+      <enclosure url="https://op3.dev/e,pg=78a0f2e4-c466-5efb-aef6-b5f21c83d4b9/media.rssblue.com/podcasts/my-crutch-live-from-bands-at-bitcoin/my-crutch-live-from-bands-at-bitcoin/audio.herbivore-my-crutch-nashville.mp3" length="9564608" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">aaa20f26-7fef-5e2e-9ce3-7542667b2d22</guid>
+      <link>https://www.instagram.com/herbivore_band/</link>
+      <pubDate>Wed, 28 Aug 2024 05:59:48 GMT</pubDate>
+      <title>My Crutch - Live from Bands at Bitcoin</title>
+      <itunes:duration>239</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.rssblue.com/podcasts/my-crutch-live-from-bands-at-bitcoin/cover-art.college-years-front-live.jpg"></itunes:image>
+      <podcast:isrc>QZNWZ2035192</podcast:isrc>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Herbivore" customKey="906608" customValue="01rzBhyoJNEvCsD9uGiJrz" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="92"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Phantom Power Music" customKey="696969" customValue="aBpWlXR7oKOAYjr21Elk" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="5"></podcast:valueRecipient>
+        <podcast:valueRecipient name="RSS Blue" customKey="696969" customValue="JNhG48KDpK6UH6AjmhhJ" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="2"></podcast:valueRecipient>
+        <podcast:valueRecipient name="OP3" customKey="696969" customValue="x3VXZtbcfIBVLIUqzWKV" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="1"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:episode>2</podcast:episode>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title><![CDATA[Smokestacks]]></title>
+      <link>https://www.wavlake.com/album/328f61b9-20b1-4338-9e2a-b437abc39f7b</link>
+      <guid isPermaLink="false">52007112-2772-42f9-957a-a93eaeedb222</guid>
+      <dc:creator><![CDATA[Herbivore]]></dc:creator>
+      <pubDate>Tue, 14 Nov 2023 02:29:06 GMT</pubDate>
+      <enclosure url="https://op3.dev/e,pg=dea01a9d-a024-5b13-84aa-b157304cd3bc/https://d12wklypp119aj.cloudfront.net/track/52007112-2772-42f9-957a-a93eaeedb222.mp3" length="4627307" type="audio/mpeg"/>
+      <podcast:episode>1</podcast:episode>
+      <podcast:season>1</podcast:season>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Herbivore via Wavlake" type="node" address="02682b7c86f474d082fa9d274c3751291225448468691784c6f112187de975a8c2" customKey="16180339" customValue="52007112-2772-42f9-957a-a93eaeedb222" split="100"/>
+      </podcast:value>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:03:21</itunes:duration>
     </item>
 
     <itunes:author>Herbivore Fan</itunes:author>
