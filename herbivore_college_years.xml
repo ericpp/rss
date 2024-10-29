@@ -1,7 +1,7 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" version="2.0">
   <channel>
     <title>The College Years Playlist</title>
-    <description>Songs from the The College Years</description>
+    <description>Songs from the The College Years combined into a single playlist</description>
     <itunes:image href="https://media.rssblue.com/podcasts/these-days/cover-art.coverart-thecollegeyears.jpg"/>
     <link>https://www.herbivoreband.com/</link>
     <generator>Sovereign Feeds</generator>
