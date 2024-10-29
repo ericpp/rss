@@ -20,6 +20,10 @@
       <itunes:email/>
       <itunes:name/>
     </itunes:owner>
+    <itunes:author>Herbivore Fan</itunes:author>
+    <pubDate>Tue, 29 Oct 2024 20:04:04 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Oct 2024 20:04:04 +0000</lastBuildDate>
+    <podcast:guid>4d20454b-d686-523b-a43a-0cb2c7034e63</podcast:guid>
     <podcast:value type="lightning" method="keysend">
       <podcast:valueRecipient name="Herbivore" customKey="696969" customValue="gfzMTk6xSLbFzSaY5jVh" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" split="87"></podcast:valueRecipient>
       <podcast:valueRecipient name="herbiNode" type="node" address="0398c77fb88de006b11fe39776fc6e7123fa3b73e0bd5a7584a79819d6064436a0" split="10"></podcast:valueRecipient>
@@ -71,49 +75,52 @@
       <podcast:season>1</podcast:season>
     </item>
     <item>
-      <title><![CDATA[Grips]]></title>
-      <link>https://www.wavlake.com/album/69b81129-7f86-43bd-94fc-891c555ce5e3</link>
-      <guid isPermaLink="false">d7c97ea7-3d74-46df-a16f-1fca8baec90a</guid>
-      <dc:creator><![CDATA[Herbivore]]></dc:creator>
-      <pubDate>Tue, 28 Nov 2023 02:59:32 GMT</pubDate>
+      <description><![CDATA[<p>Herbivore - Grips</p>
+]]></description>
       <enclosure url="https://op3.dev/e,pg=d55dfeed-ecfa-57fa-a877-0a8c4ff36b55/https://d12wklypp119aj.cloudfront.net/track/d7c97ea7-3d74-46df-a16f-1fca8baec90a.mp3" length="7744601" type="audio/mpeg"/>
-      <podcast:episode>8</podcast:episode>
-      <podcast:season>1</podcast:season>
+      <guid isPermaLink="false">d7c97ea7-3d74-46df-a16f-1fca8baec90a</guid>
+      <link>https://www.wavlake.com/album/69b81129-7f86-43bd-94fc-891c555ce5e3</link>
+      <pubDate>Tue, 28 Nov 2023 02:59:32 GMT</pubDate>
+      <title>Grips</title>
+      <itunes:duration>334</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Herbivore via Wavlake" type="node" address="02682b7c86f474d082fa9d274c3751291225448468691784c6f112187de975a8c2" customKey="16180339" customValue="d7c97ea7-3d74-46df-a16f-1fca8baec90a" split="100"/>
       </podcast:value>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:05:34</itunes:duration>
+      <podcast:episode>8</podcast:episode>
+      <podcast:season>1</podcast:season>
     </item>
     <item>
-      <title><![CDATA[Empty Water Bottles]]></title>
-      <link>https://www.wavlake.com/album/ed5ba51a-7b87-4a67-81a4-71f64b71c5f3</link>
-      <guid isPermaLink="false">d2126f79-eb38-44da-8da0-6c69341f7bff</guid>
-      <dc:creator><![CDATA[Herbivore]]></dc:creator>
-      <pubDate>Sun, 10 Dec 2023 19:01:15 GMT</pubDate>
+      <description><![CDATA[<p>Herbivore - Empty Water Bottles</p>
+]]></description>
       <enclosure url="https://op3.dev/e,pg=9ca21720-bc9e-5280-8620-d3e89c855ca4/https://d12wklypp119aj.cloudfront.net/track/d2126f79-eb38-44da-8da0-6c69341f7bff.mp3" length="5386964" type="audio/mpeg"/>
-      <podcast:episode>7</podcast:episode>
-      <podcast:season>1</podcast:season>
+      <guid isPermaLink="false">d2126f79-eb38-44da-8da0-6c69341f7bff</guid>
+      <link>https://www.wavlake.com/album/ed5ba51a-7b87-4a67-81a4-71f64b71c5f3</link>
+      <pubDate>Sun, 10 Dec 2023 19:01:15 GMT</pubDate>
+      <title>Empty Water Bottles</title>
+      <itunes:duration>222</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Herbivore via Wavlake" type="node" address="02682b7c86f474d082fa9d274c3751291225448468691784c6f112187de975a8c2" customKey="16180339" customValue="d2126f79-eb38-44da-8da0-6c69341f7bff" split="100"/>
       </podcast:value>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:03:42</itunes:duration>
+      <podcast:episode>7</podcast:episode>
+      <podcast:season>1</podcast:season>
     </item>
     <item>
-      <title><![CDATA[Drifts]]></title>
-      <link>https://www.wavlake.com/album/0d32102a-9975-4180-b63d-09fb8f676464</link>
-      <guid isPermaLink="false">d8ea8ac9-46c9-4f40-9637-ed9a3bf59886</guid>
-      <dc:creator><![CDATA[Herbivore]]></dc:creator>
-      <pubDate>Wed, 21 Feb 2024 15:21:04 GMT</pubDate>
+      <description><![CDATA[<p>Herbivore - Drifts</p>
+]]></description>
       <enclosure url="https://op3.dev/e,pg=8c31f9f7-5f62-5c85-a65c-b2f50c30fb69/https://d12wklypp119aj.cloudfront.net/track/d8ea8ac9-46c9-4f40-9637-ed9a3bf59886.mp3" length="5720060" type="audio/mpeg"/>
-      <podcast:episode>6</podcast:episode>
-      <podcast:season>1</podcast:season>
+      <guid isPermaLink="false">d8ea8ac9-46c9-4f40-9637-ed9a3bf59886</guid>
+      <link>https://www.wavlake.com/album/0d32102a-9975-4180-b63d-09fb8f676464</link>
+      <pubDate>Wed, 21 Feb 2024 15:21:04 GMT</pubDate>
+      <title>Drifts</title>
+      <itunes:duration>244</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Herbivore via Wavlake" type="node" address="02682b7c86f474d082fa9d274c3751291225448468691784c6f112187de975a8c2" customKey="16180339" customValue="d8ea8ac9-46c9-4f40-9637-ed9a3bf59886" split="100"/>
       </podcast:value>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:04:04</itunes:duration>
+      <podcast:episode>6</podcast:episode>
+      <podcast:season>1</podcast:season>
     </item>
     <item>
       <description><![CDATA[<p>www.herbivoreband.com</p>
@@ -202,24 +209,20 @@
       <podcast:season>1</podcast:season>
     </item>
     <item>
-      <title><![CDATA[Smokestacks]]></title>
-      <link>https://www.wavlake.com/album/328f61b9-20b1-4338-9e2a-b437abc39f7b</link>
-      <guid isPermaLink="false">52007112-2772-42f9-957a-a93eaeedb222</guid>
-      <dc:creator><![CDATA[Herbivore]]></dc:creator>
-      <pubDate>Tue, 14 Nov 2023 02:29:06 GMT</pubDate>
+      <description><![CDATA[<p>Herbivore - Smokestacks</p>
+]]></description>
       <enclosure url="https://op3.dev/e,pg=dea01a9d-a024-5b13-84aa-b157304cd3bc/https://d12wklypp119aj.cloudfront.net/track/52007112-2772-42f9-957a-a93eaeedb222.mp3" length="4627307" type="audio/mpeg"/>
-      <podcast:episode>1</podcast:episode>
-      <podcast:season>1</podcast:season>
+      <guid isPermaLink="false">52007112-2772-42f9-957a-a93eaeedb222</guid>
+      <link>https://www.wavlake.com/album/328f61b9-20b1-4338-9e2a-b437abc39f7b</link>
+      <pubDate>Tue, 14 Nov 2023 02:29:06 GMT</pubDate>
+      <title>Smokestacks</title>
+      <itunes:duration>201</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Herbivore via Wavlake" type="node" address="02682b7c86f474d082fa9d274c3751291225448468691784c6f112187de975a8c2" customKey="16180339" customValue="52007112-2772-42f9-957a-a93eaeedb222" split="100"/>
       </podcast:value>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:03:21</itunes:duration>
+      <podcast:episode>1</podcast:episode>
+      <podcast:season>1</podcast:season>
     </item>
-
-    <itunes:author>Herbivore Fan</itunes:author>
-    <pubDate>Tue, 29 Oct 2024 20:04:04 +0000</pubDate>
-    <lastBuildDate>Tue, 29 Oct 2024 20:04:04 +0000</lastBuildDate>
-    <podcast:guid>4d20454b-d686-523b-a43a-0cb2c7034e63</podcast:guid>
   </channel>
 </rss>
