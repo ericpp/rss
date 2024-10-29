@@ -1,0 +1,38 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" version="2.0">
+  <channel>
+    <title>The College Years Playlist</title>
+    <description>Songs from the The College Years</description>
+    <itunes:image href="https://media.rssblue.com/podcasts/these-days/cover-art.coverart-thecollegeyears.jpg"/>
+    <link>https://www.herbivoreband.com/</link>
+    <generator>Sovereign Feeds</generator>
+    <podcast:medium>musicL</podcast:medium>
+    <image>
+      <url>https://media.rssblue.com/podcasts/these-days/cover-art.coverart-thecollegeyears.jpg</url>
+      <link>https://www.herbivoreband.com/</link>
+      <title>The College Years Playlist</title>
+      <description>Songs from the The College Years</description>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <podcast:aspectImages aspect-ratio="1/1" src="https://media.rssblue.com/podcasts/these-days/cover-art.coverart-thecollegeyears.jpg"/>
+    <podcast:block>no</podcast:block>
+    <itunes:owner>
+      <itunes:email/>
+      <itunes:name/>
+    </itunes:owner>
+    <podcast:remoteItem title="Smokestacks" feedGuid="dea01a9d-a024-5b13-84aa-b157304cd3bc" feedUrl="https://wavlake.com/feed/music/328f61b9-20b1-4338-9e2a-b437abc39f7b" feedImg="https://d12wklypp119aj.cloudfront.net/image/328f61b9-20b1-4338-9e2a-b437abc39f7b.jpg" itemGuid="52007112-2772-42f9-957a-a93eaeedb222"/>
+    <podcast:remoteItem title="My Crutch - Live from Bands at Bitcoin" feedGuid="78a0f2e4-c466-5efb-aef6-b5f21c83d4b9" feedUrl="https://feeds.rssblue.com/my-crutch-live-from-bands-at-bitcoin" feedImg="https://media.rssblue.com/podcasts/my-crutch-live-from-bands-at-bitcoin/cover-art.college-years-front-live.jpg" itemGuid="aaa20f26-7fef-5e2e-9ce3-7542667b2d22"/>
+    <podcast:remoteItem title="Dopesick" feedGuid="462c641d-8db0-508a-88ae-9660ceac9ece" feedUrl="https://feeds.rssblue.com/dopesick" feedImg="https://media.rssblue.com/podcasts/dopesick/cover-art.coverart-thecollegeyears.jpg" itemGuid="68163b12-d849-53d8-b0c3-417b0ba2d781"/>
+    <podcast:remoteItem title="I've Tried" feedGuid="cb28401c-716a-51df-8de5-e90527546a12" feedUrl="https://feeds.rssblue.com/ive-tried" feedImg="https://media.rssblue.com/podcasts/ive-tried/cover-art.tcy-herb-3.jpg" itemGuid="5a885815-6752-5612-b96b-4964b95b86ae"/>
+    <podcast:remoteItem title="Campfire Remedy" feedGuid="1d981641-347d-5c49-8d33-5450aedfb4fa" feedUrl="https://feeds.rssblue.com/campfire-remedy" feedImg="https://media.rssblue.com/podcasts/campfire-remedy/cover-art.tcy-herb-3.jpg" itemGuid="2b3b6b73-56d4-53bf-8cde-b858ecefb6df"/>
+    <podcast:remoteItem title="Drifts" feedGuid="8c31f9f7-5f62-5c85-a65c-b2f50c30fb69" feedUrl="https://wavlake.com/feed/music/0d32102a-9975-4180-b63d-09fb8f676464" feedImg="https://d12wklypp119aj.cloudfront.net/image/0d32102a-9975-4180-b63d-09fb8f676464.jpg" itemGuid="d8ea8ac9-46c9-4f40-9637-ed9a3bf59886"/>
+    <podcast:remoteItem title="Empty Water Bottles" feedGuid="9ca21720-bc9e-5280-8620-d3e89c855ca4" feedUrl="https://wavlake.com/feed/ed5ba51a-7b87-4a67-81a4-71f64b71c5f3" feedImg="https://d12wklypp119aj.cloudfront.net/image/ed5ba51a-7b87-4a67-81a4-71f64b71c5f3.jpg" itemGuid="d2126f79-eb38-44da-8da0-6c69341f7bff"/>
+    <podcast:remoteItem title="Grips" feedGuid="d55dfeed-ecfa-57fa-a877-0a8c4ff36b55" feedUrl="https://wavlake.com/feed/music/69b81129-7f86-43bd-94fc-891c555ce5e3" feedImg="https://d12wklypp119aj.cloudfront.net/image/69b81129-7f86-43bd-94fc-891c555ce5e3.jpg" itemGuid="d7c97ea7-3d74-46df-a16f-1fca8baec90a"/>
+    <podcast:remoteItem title="Titicaca" feedGuid="77e1364f-3fbe-52ab-8fb3-7c2ef5fea0a0" feedUrl="https://feeds.rssblue.com/titicaca" feedImg="https://media.rssblue.com/podcasts/titicaca/cover-art.tcy-herb-3.jpg" itemGuid="eb4894f2-8cb4-538e-9162-634c1981aca0"/>
+    <podcast:remoteItem title="These Days" feedGuid="03682fbc-b8e7-505e-b5d2-8cb0f32ff2cf" feedUrl="https://feeds.rssblue.com/these-days" feedImg="https://media.rssblue.com/podcasts/these-days/cover-art.coverart-thecollegeyears.jpg" itemGuid="9d4389c6-5e6d-5f45-bbd7-d49e43f6414b"/>
+    <itunes:author>Herbivore Fan</itunes:author>
+    <pubDate>Tue, 29 Oct 2024 20:04:04 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Oct 2024 20:04:04 +0000</lastBuildDate>
+    <podcast:guid>4d20454b-d686-523b-a43a-0cb2c7034e63</podcast:guid>
+  </channel>
+</rss>
