@@ -25,13 +25,13 @@
       <itunes:name/>
     </itunes:owner>
     <itunes:author>ericpp</itunes:author>
-    <pubDate>Sat, 27 Apr 2024 18:00:02 +0000</pubDate>
-    <lastBuildDate>Sat, 27 Apr 2024 18:00:02 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Nov 2024 03:04:00 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Nov 2024 03:04:00 +0000</lastBuildDate>
     <category>Music</category>
     <category/>
     <podcast:guid>4352473a-202f-46d0-b7d0-01bb190ef399</podcast:guid>
     <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-      <podcast:valueRecipient name="Pew Pew Pew!" type="node" address="039dce5f4f268060d7128267caba658a7e8cd0effaeb81f0daeef843ce2b22110d" split="100"/>
+      <podcast:valueRecipient name="Pew Pew Pew!" type="lnaddress" address="ericpp@getalby.com" split="100"/>
     </podcast:value>
     <item>
       <title>Test track #1</title>
@@ -41,12 +41,12 @@
       <podcast:images srcset="https://blob.satellite.earth/44870c87976386d9c867ddc0d8e61ebe0a2b8dc00c02609075bcff23eb958b2d 500w"/>
       <guid isPermaLink="false">7b8c49b3-4478-4d6b-85c0-517724d20619</guid>
       <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-        <podcast:valueRecipient name="Pew Pew Pew!" type="node" address="039dce5f4f268060d7128267caba658a7e8cd0effaeb81f0daeef843ce2b22110d" split="100"/>
+        <podcast:valueRecipient name="Pew Pew Pew!" type="lnaddress" address="ericpp@getalby.com" split="100"/>
       </podcast:value>
       <itunes:subtitle>Test track #1</itunes:subtitle>
       <itunes:duration>8</itunes:duration>
       <link>https://podcastindex.social/@ericpp</link>
-      <pubDate>Sat, 27 Apr 2024 18:00:02 +0000</pubDate>
+      <pubDate>Tue, 26 Nov 2024 03:04:00 +0000</pubDate>
       <itunes:explicit>No</itunes:explicit>
       <itunes:summary><![CDATA[<p>Testing out Blossom for hosting podcast mp3s</p>]]></itunes:summary>
     </item>
