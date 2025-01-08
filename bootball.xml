@@ -7,7 +7,7 @@
     <itunes:category text="Music"/>
     <itunes:keywords>music</itunes:keywords>
     <podcast:medium>music</podcast:medium>
-    <itunes:author>Bootleg</itunes:author>
+    <itunes:author>ericpp</itunes:author>
     <title>Boostagram Ball, Bootleg!</title>
     <description>Tracks from the Boostagram Ball, Live! event</description>
     <atom:link href="https://ericpp.github.io/rss/bootball.xml" rel="self" type="application/rss+xml"></atom:link>
