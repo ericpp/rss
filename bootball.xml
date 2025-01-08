@@ -16,8 +16,8 @@
     <podcast:guid>36979821-b79b-59cb-81f0-2877b7071ea9</podcast:guid>
     <podcast:complete>no</podcast:complete>
     <podcast:block>no</podcast:block>
-    <pubDate>Wed, 08 Jan 2025 08:36:27 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Jan 2025 08:36:27 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2025 19:40:01 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 19:40:01 +0000</lastBuildDate>
     <category>Music</category>
     <podcast:value type="lightning" method="keysend">
       <podcast:valueRecipient name="Henry Invisible" customKey="906608" customValue="01JzU5miRui9AYaXj2pfVQ" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="13"/>
@@ -52,7 +52,7 @@
     </image>
     <managingEditor>ericpp</managingEditor>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:50:10 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:59 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>1</podcast:episode>
       <guid isPermaLink="false">a9c42cd3-80dc-45da-9419-31b416ac5600</guid>
@@ -80,7 +80,7 @@
       </podcast:value>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:50:09 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:58 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>2</podcast:episode>
       <guid isPermaLink="false">556c01de-b6da-43f5-81e6-aef812f5f893</guid>
@@ -104,7 +104,7 @@
       <itunes:author>Abel James</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:50:08 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:57 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>3</podcast:episode>
       <guid isPermaLink="false">65901e7e-461f-4824-9f29-e749d48ba22e</guid>
@@ -128,7 +128,7 @@
       <itunes:author>Abel James</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:50:07 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:56 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>4</podcast:episode>
       <guid isPermaLink="false">510bd847-7427-46ba-a04d-ab409df0c57a</guid>
@@ -152,7 +152,7 @@
       <itunes:author><![CDATA[SOB & The Dangs]]></itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:50:06 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:55 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>5</podcast:episode>
       <guid isPermaLink="false">b1c12265-d37e-45cc-8d69-134acb73c8fe</guid>
@@ -176,7 +176,7 @@
       <itunes:author><![CDATA[SOB & The Dangs]]></itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:50:05 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:54 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>6</podcast:episode>
       <guid isPermaLink="false">9cc26439-d756-4c0e-88f6-329c5754836d</guid>
@@ -200,7 +200,7 @@
       <itunes:author><![CDATA[SOB & The Dangs]]></itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:50:04 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:53 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>7</podcast:episode>
       <guid isPermaLink="false">6780479a-ffae-4306-81aa-8fd9d54f7656</guid>
@@ -224,7 +224,7 @@
       <itunes:author><![CDATA[SOB & The Dangs]]></itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:50:03 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:52 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>8</podcast:episode>
       <guid isPermaLink="false">645cafb4-6e05-4699-b40d-9b55652d5c55</guid>
@@ -234,7 +234,7 @@
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:50:02 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:51 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>9</podcast:episode>
       <guid isPermaLink="false">f5e50b32-f71f-4c44-bf4b-5d8ea2ae66b7</guid>
@@ -244,7 +244,7 @@
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:50:01 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:50 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>10</podcast:episode>
       <guid isPermaLink="false">caa5028a-f704-4b27-a7df-c9cce3a8ce4d</guid>
@@ -268,7 +268,7 @@
       <itunes:author>FM Rodeo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:50:00 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:49 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>11</podcast:episode>
       <guid isPermaLink="false">f1ad3a3f-41ae-4f4d-bd72-fd5a94b277c4</guid>
@@ -292,7 +292,7 @@
       <itunes:author>FM Rodeo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:59 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:48 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>12</podcast:episode>
       <guid isPermaLink="false">c9fa4845-d2d4-4505-824c-be4f94c50e1a</guid>
@@ -316,7 +316,7 @@
       <itunes:author>FM Rodeo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:58 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:47 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>13</podcast:episode>
       <guid isPermaLink="false">7c048188-9594-4f06-b4c0-a67020dfa3c4</guid>
@@ -340,7 +340,7 @@
       <itunes:author>FM Rodeo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:57 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:46 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>14</podcast:episode>
       <guid isPermaLink="false">9d905f9c-4f54-4e49-83f3-8e1c9d7d6d16</guid>
@@ -364,7 +364,7 @@
       <itunes:author>FM Rodeo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:56 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:45 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>15</podcast:episode>
       <guid isPermaLink="false">dd4b6ffe-c8fc-49f4-811c-bec30ad8f589</guid>
@@ -388,7 +388,7 @@
       <itunes:author>FM Rodeo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:55 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:44 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>16</podcast:episode>
       <guid isPermaLink="false">20820afc-1c5d-46cd-a5a5-99263c05929d</guid>
@@ -412,7 +412,7 @@
       <itunes:author>FM Rodeo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:54 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:43 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>17</podcast:episode>
       <guid isPermaLink="false">81165e3c-cbea-4436-b15c-c8226a01bf23</guid>
@@ -436,7 +436,7 @@
       <itunes:author>FM Rodeo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:53 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:42 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>18</podcast:episode>
       <guid isPermaLink="false">b7a205e0-ff2b-44b2-aaa2-01c6f77a5c0a</guid>
@@ -444,7 +444,7 @@
       <enclosure url="https://bball.ericpp.dev/18-BBall-FM%20Rodeo%20-%20Get%20Abused.mp3" length="7535095" type="audio/mpeg"/>
       <itunes:duration>188</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <podcast:value type="lightning" method="keysend">
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
         <podcast:valueRecipient name="FM Rodeo" customKey="906608" customValue="017fMCmSJ6UDQ1W6aXgofu" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="80"/>
         <podcast:valueRecipient name="Adam Curry" type="node" address="021f548a8ab5eb8e7cf91e4c9777c388463e213485ece9a1808e3c6850084ee630" split="5"/>
         <podcast:valueRecipient name="Phantom Power Music" type="node" address="03390c79737f525a07e229a4c50cb6259d687859ad2622707565bd3881e4355736" split="2"/>
@@ -460,7 +460,21 @@
       <itunes:author>FM Rodeo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:52 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:41 +0000</pubDate>
+      <podcast:season>1</podcast:season>
+      <podcast:episode>19</podcast:episode>
+      <guid isPermaLink="false">b6203faa-f60c-40fb-9798-1c9d2c3564a3</guid>
+      <title>FM Rodeo - Breed</title>
+      <enclosure url="https://bball.ericpp.dev/19-BBall-FM%20Rodeo%20-%20Cover%20Song.mp3" length="33" type="audio/mpeg"/>
+      <itunes:duration>151</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:subtitle>FM Rodeo - Breed</itunes:subtitle>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="N/A" type="node" address="none" split="100"/>
+      </podcast:value>
+    </item>
+    <item>
+      <pubDate>Wed, 08 Jan 2025 19:39:40 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>20</podcast:episode>
       <guid isPermaLink="false">577677b0-38aa-452e-a823-2afb8c4d0370</guid>
@@ -470,7 +484,7 @@
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:51 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:39 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>21</podcast:episode>
       <guid isPermaLink="false">61c37357-7388-47cb-a836-cf44f4ae6a96</guid>
@@ -480,7 +494,7 @@
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:50 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:38 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>22</podcast:episode>
       <guid isPermaLink="false">278c7fa3-42e6-4649-9f5e-dd992b546a20</guid>
@@ -504,7 +518,7 @@
       <itunes:author>Ainsley Costello</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:49 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:37 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>23</podcast:episode>
       <guid isPermaLink="false">ee9d96ce-69b8-4ccc-bcaf-3724e68150e5</guid>
@@ -528,7 +542,7 @@
       <itunes:author>Ainsley Costello</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:48 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:36 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>24</podcast:episode>
       <guid isPermaLink="false">32da249c-539b-497d-8b8b-cc0eb296b014</guid>
@@ -552,7 +566,7 @@
       <itunes:author>Ainsley Costello</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:47 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:35 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>25</podcast:episode>
       <guid isPermaLink="false">fb6615f8-19af-4e68-b0b5-8ce1190f882e</guid>
@@ -577,7 +591,7 @@
       <itunes:subtitle>Ainsley Costello - Type</itunes:subtitle>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:46 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:34 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>26</podcast:episode>
       <guid isPermaLink="false">1187d146-0491-4e41-8f5c-0bb11f1a80d2</guid>
@@ -601,7 +615,7 @@
       <itunes:author>Ainsley Costello</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:45 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:33 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>27</podcast:episode>
       <guid isPermaLink="false">5d9db2fe-4fa1-498f-8c12-df5e61a5587e</guid>
@@ -625,7 +639,7 @@
       <itunes:author>Ainsley Costello</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:44 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:32 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>28</podcast:episode>
       <guid isPermaLink="false">5d3a0654-84c4-41e4-a1a9-5c4e12e905a9</guid>
@@ -649,7 +663,7 @@
       <itunes:author>Ainsley Costello</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:43 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:31 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>29</podcast:episode>
       <guid isPermaLink="false">8fecc23c-e31a-42e2-b04d-1ee8335a22de</guid>
@@ -673,7 +687,7 @@
       <itunes:author>Ainsley Costello</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:42 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:30 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>30</podcast:episode>
       <guid isPermaLink="false">c669490e-4460-4cfd-b4aa-08e021abc3aa</guid>
@@ -697,7 +711,7 @@
       <itunes:author>Ainsley Costello</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:41 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:29 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>31</podcast:episode>
       <guid isPermaLink="false">7bc27c81-5bbd-4ebc-a999-63bd97e34c12</guid>
@@ -721,7 +735,7 @@
       <itunes:author>Ainsley Costello</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:40 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:28 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>32</podcast:episode>
       <guid isPermaLink="false">3e95d8ef-26c9-490c-a70d-d2a31bf54bcb</guid>
@@ -745,7 +759,7 @@
       <itunes:author>Ainsley Costello</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:39 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:27 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>33</podcast:episode>
       <guid isPermaLink="false">6691db87-0fe9-4f74-9c26-d28d3f3d7ce0</guid>
@@ -769,7 +783,7 @@
       <itunes:author>Ainsley Costello</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:38 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:26 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>34</podcast:episode>
       <guid isPermaLink="false">b176cfb6-b936-44fd-9864-e3c398de62ac</guid>
@@ -793,7 +807,7 @@
       <itunes:author>Ainsley Costello</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:37 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:25 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>35</podcast:episode>
       <guid isPermaLink="false">2ddec4ca-7130-40b0-8b18-2ccddbc0af40</guid>
@@ -817,7 +831,7 @@
       <itunes:author>Ainsley Costello</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:36 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:24 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>36</podcast:episode>
       <guid isPermaLink="false">27cd2f5b-c255-4187-8405-ea029843eac0</guid>
@@ -841,7 +855,7 @@
       <itunes:author>Ainsley Costello</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:35 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:23 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>37</podcast:episode>
       <guid isPermaLink="false">2ac72bd8-62b0-42f3-894c-e3aa8df333de</guid>
@@ -851,7 +865,7 @@
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:34 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:22 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>38</podcast:episode>
       <guid isPermaLink="false">0b51d7e2-adec-47dd-824e-962e8400d64f</guid>
@@ -861,7 +875,7 @@
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:33 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:21 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>39</podcast:episode>
       <guid isPermaLink="false">539c9d94-2016-42e6-a02a-fa55a1dd82ad</guid>
@@ -885,7 +899,7 @@
       <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:32 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:20 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>40</podcast:episode>
       <guid isPermaLink="false">396d51cd-e2c2-4375-b1a1-28e015dbf697</guid>
@@ -909,7 +923,7 @@
       <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:31 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:19 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>41</podcast:episode>
       <guid isPermaLink="false">b747e914-4c1b-4389-9278-2216fcafee1a</guid>
@@ -933,7 +947,7 @@
       <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:30 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:18 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>42</podcast:episode>
       <guid isPermaLink="false">5e3bdeee-5ec2-4a66-bafb-78fd2c367e5c</guid>
@@ -957,7 +971,7 @@
       <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:29 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:17 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>43</podcast:episode>
       <guid isPermaLink="false">abe125a8-bf8b-4738-ac27-ecb52058c034</guid>
@@ -981,7 +995,7 @@
       <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:28 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:16 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>44</podcast:episode>
       <guid isPermaLink="false">b0ff4e7b-740a-474e-8c66-76899abcf3b6</guid>
@@ -1005,7 +1019,7 @@
       <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:27 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:15 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>45</podcast:episode>
       <guid isPermaLink="false">a8c0b9df-d187-4656-9756-5bed6f9c74f8</guid>
@@ -1029,7 +1043,7 @@
       <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:26 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:14 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>46</podcast:episode>
       <guid isPermaLink="false">8614ad41-ec8a-4405-843c-75f434602452</guid>
@@ -1053,7 +1067,7 @@
       <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:25 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:13 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>47</podcast:episode>
       <guid isPermaLink="false">f422dda2-faba-498e-a95a-048154a9ca06</guid>
@@ -1061,7 +1075,7 @@
       <enclosure url="https://bball.ericpp.dev/47-BBall-Suzanne%20Santo%20-%20Blood%20On%20Your%20Knees.mp3" length="11990469" type="audio/mpeg"/>
       <itunes:duration>300</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <podcast:value type="lightning" method="keysend">
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
         <podcast:valueRecipient name="Suzanne Santo" customKey="906608" customValue="01VSCnZVPYLLJZKczH9gOw" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="80"/>
         <podcast:valueRecipient name="Adam Curry" type="node" address="021f548a8ab5eb8e7cf91e4c9777c388463e213485ece9a1808e3c6850084ee630" split="5"/>
         <podcast:valueRecipient name="Phantom Power Music" type="node" address="03390c79737f525a07e229a4c50cb6259d687859ad2622707565bd3881e4355736" split="2"/>
@@ -1077,7 +1091,19 @@
       <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:24 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:12 +0000</pubDate>
+      <guid isPermaLink="false">2223ac31-14dd-4a4c-afa1-f711d4d56472</guid>
+      <title>Suzanne Santo - Have a Merry Christmas!</title>
+      <enclosure url="https://bball.ericpp.dev/48-BBall-Suzanne%20Santo%20-%20Have%20a%20Merry%20Christmas!.mp3" length="33" type="audio/mpeg"/>
+      <itunes:duration>192</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="N/A" type="node" address="none" split="100"/>
+      </podcast:value>
+      <itunes:subtitle>Suzanne Santo - Have a Merry Christmas</itunes:subtitle>
+    </item>
+    <item>
+      <pubDate>Wed, 08 Jan 2025 19:39:11 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>49</podcast:episode>
       <guid isPermaLink="false">204ed24d-3b5a-43bb-98a1-9fca98e591d0</guid>
@@ -1087,7 +1113,7 @@
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:23 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:10 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>50</podcast:episode>
       <guid isPermaLink="false">b6182fcc-b408-48f6-9411-a6cc3c40a4ac</guid>
@@ -1111,7 +1137,7 @@
       <itunes:author>Henry Invisible</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:22 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:09 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>51</podcast:episode>
       <guid isPermaLink="false">3512c8c2-907a-4014-b377-426443fc5f8f</guid>
@@ -1135,7 +1161,7 @@
       <itunes:author>Henry Invisible</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:21 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:08 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>52</podcast:episode>
       <guid isPermaLink="false">ffb5b244-9a96-4687-b8ca-1ed9ab6bf60f</guid>
@@ -1159,7 +1185,7 @@
       <itunes:author>Henry Invisible</itunes:author>
     </item>
     <item>
-      <pubDate>Wed, 08 Jan 2025 06:49:20 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 19:39:07 +0000</pubDate>
       <podcast:season>1</podcast:season>
       <podcast:episode>53</podcast:episode>
       <guid isPermaLink="false">cc37eed2-0956-428e-80a0-d12aa3b562ec</guid>
