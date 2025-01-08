@@ -11,6 +11,7 @@
     <itunes:author>Bootleg</itunes:author>
     <title>Boostagram Ball, Bootleg!</title>
     <description>Tracks from the Boostagram Ball, Live! event</description>
+    <atom:link href="https://ericpp.github.io/rss/bootball.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:image href="https://ericpp.github.io/rss/bootball.png"/>
     <itunes:explicit>no</itunes:explicit>
     <link>https://www.tunestr.io</link>
