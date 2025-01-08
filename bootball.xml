@@ -16,8 +16,8 @@
     <podcast:guid>36979821-b79b-59cb-81f0-2877b7071ea9</podcast:guid>
     <podcast:complete>no</podcast:complete>
     <podcast:block>no</podcast:block>
-    <pubDate>Wed, 08 Jan 2025 06:11:29 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Jan 2025 06:11:29 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2025 06:18:32 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 06:18:32 +0000</lastBuildDate>
     <category>Music</category>
     <podcast:value type="lightning" method="keysend">
       <podcast:valueRecipient name="Henry Invisible" customKey="906608" customValue="01JzU5miRui9AYaXj2pfVQ" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="13"/>
@@ -59,7 +59,7 @@
       <enclosure url="https://bball.ericpp.dev/01-BBall-Curry welcome.mp3" length="9728686" type="audio/mpeg"/>
       <itunes:duration>243</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <podcast:value method="keysend" type="lightning">
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
         <podcast:valueRecipient name="Henry Invisible" customKey="906608" customValue="01JzU5miRui9AYaXj2pfVQ" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="13"/>
         <podcast:valueRecipient name="Suzanne Santo" customKey="906608" customValue="01VSCnZVPYLLJZKczH9gOw" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="13"/>
         <podcast:valueRecipient name="SOB &amp; The Dangs" customKey="906608" customValue="01q1nGpQ00htmS4sKaXWvb" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="13"/>
@@ -77,8 +77,6 @@
         <podcast:valueRecipient name="BoostBot" type="node" address="03d55f4d4c870577e98ac56605a54c5ed20c8897e41197a068fd61bdb580efaa67" split="1"/>
         <podcast:valueRecipient name="RSS Blue" type="node" address="02d256a6f93e3d4f95db0d9b3e85bc49f8c61a15b6e9c59e946d1b2806a87f6eb7" split="2"/>
       </podcast:value>
-      <author></author>
-      <itunes:author></itunes:author>
     </item>
     <item>
       <pubDate>Wed, 8 Jan 2025 04:32:00 +0000</pubDate>
@@ -149,8 +147,8 @@
         <podcast:valueRecipient name="BoostBot" type="node" address="03d55f4d4c870577e98ac56605a54c5ed20c8897e41197a068fd61bdb580efaa67" split="1"/>
         <podcast:valueRecipient name="RSS Blue" type="node" address="02d256a6f93e3d4f95db0d9b3e85bc49f8c61a15b6e9c59e946d1b2806a87f6eb7" split="2"/>
       </podcast:value>
-      <author>SOB &amp; The Dangs</author>
-      <itunes:author>SOB &amp; The Dangs</itunes:author>
+      <author><![CDATA[SOB & The Dangs]]></author>
+      <itunes:author><![CDATA[SOB & The Dangs]]></itunes:author>
     </item>
     <item>
       <pubDate>Wed, 8 Jan 2025 04:32:00 +0000</pubDate>
@@ -173,8 +171,8 @@
         <podcast:valueRecipient name="BoostBot" type="node" address="03d55f4d4c870577e98ac56605a54c5ed20c8897e41197a068fd61bdb580efaa67" split="1"/>
         <podcast:valueRecipient name="RSS Blue" type="node" address="02d256a6f93e3d4f95db0d9b3e85bc49f8c61a15b6e9c59e946d1b2806a87f6eb7" split="2"/>
       </podcast:value>
-      <author>SOB &amp; The Dangs</author>
-      <itunes:author>SOB &amp; The Dangs</itunes:author>
+      <author><![CDATA[SOB & The Dangs]]></author>
+      <itunes:author><![CDATA[SOB & The Dangs]]></itunes:author>
     </item>
     <item>
       <pubDate>Wed, 8 Jan 2025 04:32:00 +0000</pubDate>
@@ -197,8 +195,8 @@
         <podcast:valueRecipient name="BoostBot" type="node" address="03d55f4d4c870577e98ac56605a54c5ed20c8897e41197a068fd61bdb580efaa67" split="1"/>
         <podcast:valueRecipient name="RSS Blue" type="node" address="02d256a6f93e3d4f95db0d9b3e85bc49f8c61a15b6e9c59e946d1b2806a87f6eb7" split="2"/>
       </podcast:value>
-      <author>SOB &amp; The Dangs</author>
-      <itunes:author>SOB &amp; The Dangs</itunes:author>
+      <author><![CDATA[SOB & The Dangs]]></author>
+      <itunes:author><![CDATA[SOB & The Dangs]]></itunes:author>
     </item>
     <item>
       <pubDate>Wed, 8 Jan 2025 04:32:00 +0000</pubDate>
@@ -209,7 +207,7 @@
       <enclosure url="https://bball.ericpp.dev/07-BBall-SOB &amp; The Dangs - I Need Supervision_.mp3" length="12962950" type="audio/mpeg"/>
       <itunes:duration>324</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <podcast:value type="lightning" method="keysend">
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
         <podcast:valueRecipient name="SOB &amp; The Dangs" customKey="906608" customValue="01q1nGpQ00htmS4sKaXWvb" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="80"/>
         <podcast:valueRecipient name="Adam Curry" type="node" address="021f548a8ab5eb8e7cf91e4c9777c388463e213485ece9a1808e3c6850084ee630" split="5"/>
         <podcast:valueRecipient name="Phantom Power Music" type="node" address="03390c79737f525a07e229a4c50cb6259d687859ad2622707565bd3881e4355736" split="2"/>
@@ -221,8 +219,8 @@
         <podcast:valueRecipient name="BoostBot" type="node" address="03d55f4d4c870577e98ac56605a54c5ed20c8897e41197a068fd61bdb580efaa67" split="1"/>
         <podcast:valueRecipient name="RSS Blue" type="node" address="02d256a6f93e3d4f95db0d9b3e85bc49f8c61a15b6e9c59e946d1b2806a87f6eb7" split="2"/>
       </podcast:value>
-      <author>SOB &amp; The Dangs</author>
-      <itunes:author>SOB &amp; The Dangs</itunes:author>
+      <author><![CDATA[SOB & The Dangs]]></author>
+      <itunes:author><![CDATA[SOB & The Dangs]]></itunes:author>
     </item>
     <item>
       <pubDate>Wed, 8 Jan 2025 04:32:00 +0000</pubDate>
@@ -882,7 +880,7 @@
         <podcast:valueRecipient name="RSS Blue" type="node" address="02d256a6f93e3d4f95db0d9b3e85bc49f8c61a15b6e9c59e946d1b2806a87f6eb7" split="2"/>
       </podcast:value>
       <author>Suzanne Santo</author>
-      <itunes:author></itunes:author>
+      <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
       <pubDate>Wed, 8 Jan 2025 04:32:00 +0000</pubDate>
@@ -906,7 +904,7 @@
         <podcast:valueRecipient name="RSS Blue" type="node" address="02d256a6f93e3d4f95db0d9b3e85bc49f8c61a15b6e9c59e946d1b2806a87f6eb7" split="2"/>
       </podcast:value>
       <author>Suzanne Santo</author>
-      <itunes:author></itunes:author>
+      <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
       <pubDate>Wed, 8 Jan 2025 04:32:00 +0000</pubDate>
@@ -930,7 +928,7 @@
         <podcast:valueRecipient name="RSS Blue" type="node" address="02d256a6f93e3d4f95db0d9b3e85bc49f8c61a15b6e9c59e946d1b2806a87f6eb7" split="2"/>
       </podcast:value>
       <author>Suzanne Santo</author>
-      <itunes:author></itunes:author>
+      <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
       <pubDate>Wed, 8 Jan 2025 04:32:00 +0000</pubDate>
@@ -954,7 +952,7 @@
         <podcast:valueRecipient name="RSS Blue" type="node" address="02d256a6f93e3d4f95db0d9b3e85bc49f8c61a15b6e9c59e946d1b2806a87f6eb7" split="2"/>
       </podcast:value>
       <author>Suzanne Santo</author>
-      <itunes:author></itunes:author>
+      <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
       <pubDate>Wed, 8 Jan 2025 04:32:00 +0000</pubDate>
@@ -978,7 +976,7 @@
         <podcast:valueRecipient name="RSS Blue" type="node" address="02d256a6f93e3d4f95db0d9b3e85bc49f8c61a15b6e9c59e946d1b2806a87f6eb7" split="2"/>
       </podcast:value>
       <author>Suzanne Santo</author>
-      <itunes:author></itunes:author>
+      <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
       <pubDate>Wed, 8 Jan 2025 04:32:00 +0000</pubDate>
@@ -1002,7 +1000,7 @@
         <podcast:valueRecipient name="RSS Blue" type="node" address="02d256a6f93e3d4f95db0d9b3e85bc49f8c61a15b6e9c59e946d1b2806a87f6eb7" split="2"/>
       </podcast:value>
       <author>Suzanne Santo</author>
-      <itunes:author></itunes:author>
+      <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
       <pubDate>Wed, 8 Jan 2025 04:32:00 +0000</pubDate>
@@ -1026,7 +1024,7 @@
         <podcast:valueRecipient name="RSS Blue" type="node" address="02d256a6f93e3d4f95db0d9b3e85bc49f8c61a15b6e9c59e946d1b2806a87f6eb7" split="2"/>
       </podcast:value>
       <author>Suzanne Santo</author>
-      <itunes:author></itunes:author>
+      <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
       <pubDate>Wed, 8 Jan 2025 04:32:00 +0000</pubDate>
@@ -1050,7 +1048,7 @@
         <podcast:valueRecipient name="RSS Blue" type="node" address="02d256a6f93e3d4f95db0d9b3e85bc49f8c61a15b6e9c59e946d1b2806a87f6eb7" split="2"/>
       </podcast:value>
       <author>Suzanne Santo</author>
-      <itunes:author></itunes:author>
+      <itunes:author>Suzanne Santo</itunes:author>
     </item>
     <item>
       <pubDate>Wed, 8 Jan 2025 04:32:00 +0000</pubDate>
