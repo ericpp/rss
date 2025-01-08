@@ -6,7 +6,7 @@
     <itunes:category text="Music"/>
     <itunes:keywords>music</itunes:keywords>
     <podcast:medium>music</podcast:medium>
-    <itunes:author>ericpp</itunes:author>
+    <itunes:author>Boostagram Ball, Bootleg!</itunes:author>
     <title>Boostagram Ball, Bootleg!</title>
     <description>Tracks from the Boostagram Ball, Live! event</description>
     <atom:link href="https://ericpp.github.io/rss/bootball.xml" rel="self" type="application/rss+xml"/>
@@ -16,8 +16,8 @@
     <podcast:guid>36979821-b79b-59cb-81f0-2877b7071ea9</podcast:guid>
     <podcast:complete>no</podcast:complete>
     <podcast:block>no</podcast:block>
-    <pubDate>Wed, 08 Jan 2025 06:50:12 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Jan 2025 06:50:12 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2025 06:59:27 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 06:59:27 +0000</lastBuildDate>
     <category>Music</category>
     <podcast:value type="lightning" method="keysend">
       <podcast:valueRecipient name="Henry Invisible" customKey="906608" customValue="01JzU5miRui9AYaXj2pfVQ" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="13"/>
@@ -50,6 +50,7 @@
       <width>144</width>
       <height>144</height>
     </image>
+    <managingEditor>ericpp</managingEditor>
     <item>
       <pubDate>Wed, 08 Jan 2025 06:50:10 +0000</pubDate>
       <podcast:season>1</podcast:season>
