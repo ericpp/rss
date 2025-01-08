@@ -16,8 +16,8 @@
     <podcast:guid>36979821-b79b-59cb-81f0-2877b7071ea9</podcast:guid>
     <podcast:complete>no</podcast:complete>
     <podcast:block>no</podcast:block>
-    <pubDate>Wed, 08 Jan 2025 06:59:27 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Jan 2025 06:59:27 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2025 08:36:27 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 08:36:27 +0000</lastBuildDate>
     <category>Music</category>
     <podcast:value type="lightning" method="keysend">
       <podcast:valueRecipient name="Henry Invisible" customKey="906608" customValue="01JzU5miRui9AYaXj2pfVQ" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="13"/>
@@ -57,7 +57,7 @@
       <podcast:episode>1</podcast:episode>
       <guid isPermaLink="false">a9c42cd3-80dc-45da-9419-31b416ac5600</guid>
       <title>Welcome to Boostagram Ball!</title>
-      <enclosure url="https://bball.ericpp.dev/01-BBall-Curry welcome.mp3" length="9728686" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/01-BBall-Curry%20welcome.mp3" length="9728686" type="audio/mpeg"/>
       <itunes:duration>243</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
@@ -85,7 +85,7 @@
       <podcast:episode>2</podcast:episode>
       <guid isPermaLink="false">556c01de-b6da-43f5-81e6-aef812f5f893</guid>
       <title>Abel James - In Time</title>
-      <enclosure url="https://bball.ericpp.dev/02-BBall-Abel James - In Time.mp3" length="11640053" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/02-BBall-Abel%20James%20-%20In%20Time.mp3" length="11640053" type="audio/mpeg"/>
       <itunes:duration>291</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
@@ -109,7 +109,7 @@
       <podcast:episode>3</podcast:episode>
       <guid isPermaLink="false">65901e7e-461f-4824-9f29-e749d48ba22e</guid>
       <title><![CDATA[Abel James with SOB & The Dangs - Voodoo Queen]]></title>
-      <enclosure url="https://bball.ericpp.dev/03-BBall-Abel James with SOB &amp; The Dangs - Voodoo Queen.mp3" length="13532239" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/03-BBall-Abel%20James%20with%20SOB%20&amp;%20The%20Dangs%20-%20Voodoo%20Queen.mp3" length="13532239" type="audio/mpeg"/>
       <itunes:duration>338</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -133,7 +133,7 @@
       <podcast:episode>4</podcast:episode>
       <guid isPermaLink="false">510bd847-7427-46ba-a04d-ab409df0c57a</guid>
       <title><![CDATA[SOB & The Dangs - Surrender]]></title>
-      <enclosure url="https://bball.ericpp.dev/04-BBall-SOB &amp; The Dangs - Surrender.mp3" length="11136063" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/04-BBall-SOB%20&amp;%20The%20Dangs%20-%20Surrender.mp3" length="11136063" type="audio/mpeg"/>
       <itunes:duration>278</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -157,7 +157,7 @@
       <podcast:episode>5</podcast:episode>
       <guid isPermaLink="false">b1c12265-d37e-45cc-8d69-134acb73c8fe</guid>
       <title><![CDATA[SOB & The Dangs - Ease Me Down]]></title>
-      <enclosure url="https://bball.ericpp.dev/05-BBall-SOB &amp; The Dangs - Ease Me Down.mp3" length="14173506" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/05-BBall-SOB%20&amp;%20The%20Dangs%20-%20Ease%20Me%20Down.mp3" length="14173506" type="audio/mpeg"/>
       <itunes:duration>354</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -181,7 +181,7 @@
       <podcast:episode>6</podcast:episode>
       <guid isPermaLink="false">9cc26439-d756-4c0e-88f6-329c5754836d</guid>
       <title><![CDATA[SOB & The Dangs - Whole Lotta Trouble]]></title>
-      <enclosure url="https://bball.ericpp.dev/06-BBall-SOB &amp; The Dangs - Whole Lotta Trouble.mp3" length="11968390" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/06-BBall-SOB%20&amp;%20The%20Dangs%20-%20Whole%20Lotta%20Trouble.mp3" length="11968390" type="audio/mpeg"/>
       <itunes:duration>299</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -205,7 +205,7 @@
       <podcast:episode>7</podcast:episode>
       <guid isPermaLink="false">6780479a-ffae-4306-81aa-8fd9d54f7656</guid>
       <title><![CDATA[SOB & The Dangs]]></title>
-      <enclosure url="https://bball.ericpp.dev/07-BBall-SOB &amp; The Dangs - I Need Supervision_.mp3" length="12962950" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/07-BBall-SOB%20&amp;%20The%20Dangs%20-%20I%20Need%20Supervision_.mp3" length="12962950" type="audio/mpeg"/>
       <itunes:duration>324</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
@@ -229,7 +229,7 @@
       <podcast:episode>8</podcast:episode>
       <guid isPermaLink="false">645cafb4-6e05-4699-b40d-9b55652d5c55</guid>
       <title>V4V Update</title>
-      <enclosure url="https://bball.ericpp.dev/08-BBall-Curry Update.mp3" length="2030445" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/08-BBall-Curry%20Update.mp3" length="2030445" type="audio/mpeg"/>
       <itunes:duration>51</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
     </item>
@@ -239,7 +239,7 @@
       <podcast:episode>9</podcast:episode>
       <guid isPermaLink="false">f5e50b32-f71f-4c44-bf4b-5d8ea2ae66b7</guid>
       <title>FM Rodeo intro</title>
-      <enclosure url="https://bball.ericpp.dev/09-BBall-Curry intro.mp3" length="1737644" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/09-BBall-Curry%20intro.mp3" length="1737644" type="audio/mpeg"/>
       <itunes:duration>43</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
     </item>
@@ -249,7 +249,7 @@
       <podcast:episode>10</podcast:episode>
       <guid isPermaLink="false">caa5028a-f704-4b27-a7df-c9cce3a8ce4d</guid>
       <title>FM Rodeo - Rit Jons</title>
-      <enclosure url="https://bball.ericpp.dev/10-BBall-FM Rodeo - Rit Jons.mp3" length="9564533" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/10-BBall-FM%20Rodeo%20-%20Rit%20Jons.mp3" length="9564533" type="audio/mpeg"/>
       <itunes:duration>239</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -273,7 +273,7 @@
       <podcast:episode>11</podcast:episode>
       <guid isPermaLink="false">f1ad3a3f-41ae-4f4d-bd72-fd5a94b277c4</guid>
       <title>FM Rodeo - Pop Song (Disaster)</title>
-      <enclosure url="https://bball.ericpp.dev/11-BBall-FM Rodeo - Pop Song (Disaster).mp3" length="8305024" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/11-BBall-FM%20Rodeo%20-%20Pop%20Song%20(Disaster).mp3" length="8305024" type="audio/mpeg"/>
       <itunes:duration>208</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -297,7 +297,7 @@
       <podcast:episode>12</podcast:episode>
       <guid isPermaLink="false">c9fa4845-d2d4-4505-824c-be4f94c50e1a</guid>
       <title>FM Rodeo - Self Titled National Anthem</title>
-      <enclosure url="https://bball.ericpp.dev/12-BBall-FM Rodeo - Self Titled National Anthem.mp3" length="10938312" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/12-BBall-FM%20Rodeo%20-%20Self%20Titled%20National%20Anthem.mp3" length="10938312" type="audio/mpeg"/>
       <itunes:duration>273</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -321,7 +321,7 @@
       <podcast:episode>13</podcast:episode>
       <guid isPermaLink="false">7c048188-9594-4f06-b4c0-a67020dfa3c4</guid>
       <title>FM Rodeo - Elephant Nightmare</title>
-      <enclosure url="https://bball.ericpp.dev/13-BBall-FM Rodeo - Elephant Nightmare.mp3" length="10130943" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/13-BBall-FM%20Rodeo%20-%20Elephant%20Nightmare.mp3" length="10130943" type="audio/mpeg"/>
       <itunes:duration>253</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -345,7 +345,7 @@
       <podcast:episode>14</podcast:episode>
       <guid isPermaLink="false">9d905f9c-4f54-4e49-83f3-8e1c9d7d6d16</guid>
       <title>FM Rodeo - Jodi</title>
-      <enclosure url="https://bball.ericpp.dev/14-BBall-FM Rodeo - Jodi.mp3" length="8799409" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/14-BBall-FM%20Rodeo%20-%20Jodi.mp3" length="8799409" type="audio/mpeg"/>
       <itunes:duration>220</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -369,7 +369,7 @@
       <podcast:episode>15</podcast:episode>
       <guid isPermaLink="false">dd4b6ffe-c8fc-49f4-811c-bec30ad8f589</guid>
       <title>FM Rodeo - Evening</title>
-      <enclosure url="https://bball.ericpp.dev/15-BBall-FM Rodeo - Evening.mp3" length="8059252" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/15-BBall-FM%20Rodeo%20-%20Evening.mp3" length="8059252" type="audio/mpeg"/>
       <itunes:duration>201</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -393,7 +393,7 @@
       <podcast:episode>16</podcast:episode>
       <guid isPermaLink="false">20820afc-1c5d-46cd-a5a5-99263c05929d</guid>
       <title><![CDATA[FM Rodeo - "Value for Value"]]></title>
-      <enclosure url="https://bball.ericpp.dev/16-BBall-FM Rodeo - Value for Value.mp3" length="1965180" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/16-BBall-FM%20Rodeo%20-%20Value%20for%20Value.mp3" length="1965180" type="audio/mpeg"/>
       <itunes:duration>49</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -417,7 +417,7 @@
       <podcast:episode>17</podcast:episode>
       <guid isPermaLink="false">81165e3c-cbea-4436-b15c-c8226a01bf23</guid>
       <title>FM Rodeo - I MUST SAY</title>
-      <enclosure url="https://bball.ericpp.dev/17-BBall-FM Rodeo - I MUST SAY.mp3" length="10874935" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/17-BBall-FM%20Rodeo%20-%20I%20MUST%20SAY.mp3" length="10874935" type="audio/mpeg"/>
       <itunes:duration>272</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -441,7 +441,7 @@
       <podcast:episode>18</podcast:episode>
       <guid isPermaLink="false">b7a205e0-ff2b-44b2-aaa2-01c6f77a5c0a</guid>
       <title>FM Rodeo - Get Abused</title>
-      <enclosure url="https://bball.ericpp.dev/18-BBall-FM Rodeo - Get Abused.mp3" length="7535095" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/18-BBall-FM%20Rodeo%20-%20Get%20Abused.mp3" length="7535095" type="audio/mpeg"/>
       <itunes:duration>188</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -465,7 +465,7 @@
       <podcast:episode>20</podcast:episode>
       <guid isPermaLink="false">577677b0-38aa-452e-a823-2afb8c4d0370</guid>
       <title>Music Revolution</title>
-      <enclosure url="https://bball.ericpp.dev/20-BBall-Curry update.mp3" length="2230126" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/20-BBall-Curry%20update.mp3" length="2230126" type="audio/mpeg"/>
       <itunes:duration>56</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
     </item>
@@ -475,7 +475,7 @@
       <podcast:episode>21</podcast:episode>
       <guid isPermaLink="false">61c37357-7388-47cb-a836-cf44f4ae6a96</guid>
       <title>V4V Update and Ainsley intro</title>
-      <enclosure url="https://bball.ericpp.dev/21-BBall-Curry update.mp3" length="3072046" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/21-BBall-Curry%20update.mp3" length="3072046" type="audio/mpeg"/>
       <itunes:duration>77</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
     </item>
@@ -485,7 +485,7 @@
       <podcast:episode>22</podcast:episode>
       <guid isPermaLink="false">278c7fa3-42e6-4649-9f5e-dd992b546a20</guid>
       <title>Ainsley Costello - EXLESS</title>
-      <enclosure url="https://bball.ericpp.dev/22-BBall-Ainsley Costello - EXLESS.mp3" length="7678139" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/22-BBall-Ainsley%20Costello%20-%20EXLESS.mp3" length="7678139" type="audio/mpeg"/>
       <itunes:duration>192</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -509,7 +509,7 @@
       <podcast:episode>23</podcast:episode>
       <guid isPermaLink="false">ee9d96ce-69b8-4ccc-bcaf-3724e68150e5</guid>
       <title><![CDATA[Ainsley Costello - Someone's Someone]]></title>
-      <enclosure url="https://bball.ericpp.dev/23-BBall-Ainsley Costello - Someone&#39;s Someone.mp3" length="8689030" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/23-BBall-Ainsley%20Costello%20-%20Someone&#39;s%20Someone.mp3" length="8689030" type="audio/mpeg"/>
       <itunes:duration>217</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -533,7 +533,7 @@
       <podcast:episode>24</podcast:episode>
       <guid isPermaLink="false">32da249c-539b-497d-8b8b-cc0eb296b014</guid>
       <title>Ainsley Costello - Change Your Mind</title>
-      <enclosure url="https://bball.ericpp.dev/24-BBall-Ainsley Costello - Change Your Mind.mp3" length="6196869" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/24-BBall-Ainsley%20Costello%20-%20Change%20Your%20Mind.mp3" length="6196869" type="audio/mpeg"/>
       <itunes:duration>155</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -557,7 +557,7 @@
       <podcast:episode>25</podcast:episode>
       <guid isPermaLink="false">fb6615f8-19af-4e68-b0b5-8ce1190f882e</guid>
       <title>Ainsley Costello - Type</title>
-      <enclosure url="https://bball.ericpp.dev/25-BBall-Aisley Costello - Type.mp3" length="8592056" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/25-BBall-Aisley%20Costello%20-%20Type.mp3" length="8592056" type="audio/mpeg"/>
       <itunes:duration>215</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
@@ -582,7 +582,7 @@
       <podcast:episode>26</podcast:episode>
       <guid isPermaLink="false">1187d146-0491-4e41-8f5c-0bb11f1a80d2</guid>
       <title><![CDATA[Ainsley Costello - "Thanks"]]></title>
-      <enclosure url="https://bball.ericpp.dev/26-BBall-Ainsley Costello - Thanks.mp3" length="3043259" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/26-BBall-Ainsley%20Costello%20-%20Thanks.mp3" length="3043259" type="audio/mpeg"/>
       <itunes:duration>76</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -606,7 +606,7 @@
       <podcast:episode>27</podcast:episode>
       <guid isPermaLink="false">5d9db2fe-4fa1-498f-8c12-df5e61a5587e</guid>
       <title>Ainsley Costello</title>
-      <enclosure url="https://bball.ericpp.dev/27-BBall-Ainsley Costello - Wannabe_.mp3" length="7818301" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/27-BBall-Ainsley%20Costello%20-%20Wannabe_.mp3" length="7818301" type="audio/mpeg"/>
       <itunes:duration>195</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -630,7 +630,7 @@
       <podcast:episode>28</podcast:episode>
       <guid isPermaLink="false">5d3a0654-84c4-41e4-a1a9-5c4e12e905a9</guid>
       <title>Ainsley Costello - People Pleaser</title>
-      <enclosure url="https://bball.ericpp.dev/28-BBall-Ainsley Costello - People Pleaser.mp3" length="6257347" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/28-BBall-Ainsley%20Costello%20-%20People%20Pleaser.mp3" length="6257347" type="audio/mpeg"/>
       <itunes:duration>156</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -654,7 +654,7 @@
       <podcast:episode>29</podcast:episode>
       <guid isPermaLink="false">8fecc23c-e31a-42e2-b04d-1ee8335a22de</guid>
       <title><![CDATA[Ainsley Costello - "Steven, this one is for you!"]]></title>
-      <enclosure url="https://bball.ericpp.dev/29-BBall-Ainsley Costello - Steven, this one is for you!.mp3" length="1144401" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/29-BBall-Ainsley%20Costello%20-%20Steven,%20this%20one%20is%20for%20you!.mp3" length="1144401" type="audio/mpeg"/>
       <itunes:duration>29</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -678,7 +678,7 @@
       <podcast:episode>30</podcast:episode>
       <guid isPermaLink="false">c669490e-4460-4cfd-b4aa-08e021abc3aa</guid>
       <title>Ainsley Costello - Daydreamer</title>
-      <enclosure url="https://bball.ericpp.dev/30-BBall-Ainsley Costello - Daydreamer.mp3" length="11010303" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/30-BBall-Ainsley%20Costello%20-%20Daydreamer.mp3" length="11010303" type="audio/mpeg"/>
       <itunes:duration>275</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -702,7 +702,7 @@
       <podcast:episode>31</podcast:episode>
       <guid isPermaLink="false">7bc27c81-5bbd-4ebc-a999-63bd97e34c12</guid>
       <title>Ainsley Costello - Two Ships</title>
-      <enclosure url="https://bball.ericpp.dev/31-BBall-Ainsley Costello - Two Ships.mp3" length="9399422" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/31-BBall-Ainsley%20Costello%20-%20Two%20Ships.mp3" length="9399422" type="audio/mpeg"/>
       <itunes:duration>235</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -726,7 +726,7 @@
       <podcast:episode>32</podcast:episode>
       <guid isPermaLink="false">3e95d8ef-26c9-490c-a70d-d2a31bf54bcb</guid>
       <title>Ainsley Costello - You Problem</title>
-      <enclosure url="https://bball.ericpp.dev/32-BBall-Ainsley Costello - You Problem.mp3" length="8877184" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/32-BBall-Ainsley%20Costello%20-%20You%20Problem.mp3" length="8877184" type="audio/mpeg"/>
       <itunes:duration>222</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -750,7 +750,7 @@
       <podcast:episode>33</podcast:episode>
       <guid isPermaLink="false">6691db87-0fe9-4f74-9c26-d28d3f3d7ce0</guid>
       <title><![CDATA[Ainsley Costello - "Thank you, Ton"]]></title>
-      <enclosure url="https://bball.ericpp.dev/33-BBall-Ainsley Costello - Thank you Ton.mp3" length="4836546" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/33-BBall-Ainsley%20Costello%20-%20Thank%20you%20Ton.mp3" length="4836546" type="audio/mpeg"/>
       <itunes:duration>121</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -774,7 +774,7 @@
       <podcast:episode>34</podcast:episode>
       <guid isPermaLink="false">b176cfb6-b936-44fd-9864-e3c398de62ac</guid>
       <title>Ainsley Costello - Terrible Twenties</title>
-      <enclosure url="https://bball.ericpp.dev/34-BBall-Ainsley Costello - Terrible Twenties.mp3" length="7871110" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/34-BBall-Ainsley%20Costello%20-%20Terrible%20Twenties.mp3" length="7871110" type="audio/mpeg"/>
       <itunes:duration>197</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -798,7 +798,7 @@
       <podcast:episode>35</podcast:episode>
       <guid isPermaLink="false">2ddec4ca-7130-40b0-8b18-2ccddbc0af40</guid>
       <title><![CDATA[Ainsley Costello - We've come to the last song]]></title>
-      <enclosure url="https://bball.ericpp.dev/35-BBall-Ainsley Costello - I&#39;m afraid we&#39;ve come to the last song.mp3" length="2350171" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/35-BBall-Ainsley%20Costello%20-%20I&#39;m%20afraid%20we&#39;ve%20come%20to%20the%20last%20song.mp3" length="2350171" type="audio/mpeg"/>
       <itunes:duration>59</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -822,7 +822,7 @@
       <podcast:episode>36</podcast:episode>
       <guid isPermaLink="false">27cd2f5b-c255-4187-8405-ea029843eac0</guid>
       <title>Ainsley Costello - Cherry on Top</title>
-      <enclosure url="https://bball.ericpp.dev/36-BBall-Ainsley Costello - Cherry on Top.mp3" length="9015426" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/36-BBall-Ainsley%20Costello%20-%20Cherry%20on%20Top.mp3" length="9015426" type="audio/mpeg"/>
       <itunes:duration>225</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -846,7 +846,7 @@
       <podcast:episode>37</podcast:episode>
       <guid isPermaLink="false">2ac72bd8-62b0-42f3-894c-e3aa8df333de</guid>
       <title>V4V Update</title>
-      <enclosure url="https://bball.ericpp.dev/37-BBall-Curry Update.mp3" length="2273326" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/37-BBall-Curry%20Update.mp3" length="2273326" type="audio/mpeg"/>
       <itunes:duration>57</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
     </item>
@@ -856,7 +856,7 @@
       <podcast:episode>38</podcast:episode>
       <guid isPermaLink="false">0b51d7e2-adec-47dd-824e-962e8400d64f</guid>
       <title>V4V Update and Intro to Suzanne Santo</title>
-      <enclosure url="https://bball.ericpp.dev/38-BBall-Curry update.mp3" length="3409006" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/38-BBall-Curry%20update.mp3" length="3409006" type="audio/mpeg"/>
       <itunes:duration>85</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
     </item>
@@ -866,7 +866,7 @@
       <podcast:episode>39</podcast:episode>
       <guid isPermaLink="false">539c9d94-2016-42e6-a02a-fa55a1dd82ad</guid>
       <title>Suzanne Santo - Mercy</title>
-      <enclosure url="https://bball.ericpp.dev/39-BBall-Suzanne Santo - Mercy.mp3" length="9815095" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/39-BBall-Suzanne%20Santo%20-%20Mercy.mp3" length="9815095" type="audio/mpeg"/>
       <itunes:duration>245</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -890,7 +890,7 @@
       <podcast:episode>40</podcast:episode>
       <guid isPermaLink="false">396d51cd-e2c2-4375-b1a1-28e015dbf697</guid>
       <title>Suzanne Santo - To No End</title>
-      <enclosure url="https://bball.ericpp.dev/40-BBall-Suzanne Santo - To No End.mp3" length="11912699" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/40-BBall-Suzanne%20Santo%20-%20To%20No%20End.mp3" length="11912699" type="audio/mpeg"/>
       <itunes:duration>298</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -914,7 +914,7 @@
       <podcast:episode>41</podcast:episode>
       <guid isPermaLink="false">b747e914-4c1b-4389-9278-2216fcafee1a</guid>
       <title>Suzanne Santo - Worried</title>
-      <enclosure url="https://bball.ericpp.dev/41-BBall-Suzanne Santo - Worried.mp3" length="14265657" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/41-BBall-Suzanne%20Santo%20-%20Worried.mp3" length="14265657" type="audio/mpeg"/>
       <itunes:duration>357</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -938,7 +938,7 @@
       <podcast:episode>42</podcast:episode>
       <guid isPermaLink="false">5e3bdeee-5ec2-4a66-bafb-78fd2c367e5c</guid>
       <title>Suzanne Santo - Dream</title>
-      <enclosure url="https://bball.ericpp.dev/42-BBall-Suzanne Santo - Dream.mp3" length="10256695" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/42-BBall-Suzanne%20Santo%20-%20Dream.mp3" length="10256695" type="audio/mpeg"/>
       <itunes:duration>256</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -962,7 +962,7 @@
       <podcast:episode>43</podcast:episode>
       <guid isPermaLink="false">abe125a8-bf8b-4738-ac27-ecb52058c034</guid>
       <title><![CDATA[Suzanne Santo - "Empire for the People"]]></title>
-      <enclosure url="https://bball.ericpp.dev/43-BBall-Suzanne Santo - Empire for the People.mp3" length="2877191" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/43-BBall-Suzanne%20Santo%20-%20Empire%20for%20the%20People.mp3" length="2877191" type="audio/mpeg"/>
       <itunes:duration>72</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -986,7 +986,7 @@
       <podcast:episode>44</podcast:episode>
       <guid isPermaLink="false">b0ff4e7b-740a-474e-8c66-76899abcf3b6</guid>
       <title>Suzanne Santo - Bad Beast</title>
-      <enclosure url="https://bball.ericpp.dev/44-BBall-Suzanne Santo - Bad Beast.mp3" length="15357179" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/44-BBall-Suzanne%20Santo%20-%20Bad%20Beast.mp3" length="15357179" type="audio/mpeg"/>
       <itunes:duration>384</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -1010,7 +1010,7 @@
       <podcast:episode>45</podcast:episode>
       <guid isPermaLink="false">a8c0b9df-d187-4656-9756-5bed6f9c74f8</guid>
       <title><![CDATA[Suzanne Santo - "Italian Momma"]]></title>
-      <enclosure url="https://bball.ericpp.dev/45-BBall-Suzanne Santo - _Italian Momma_.mp3" length="1762625" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/45-BBall-Suzanne%20Santo%20-%20_Italian%20Momma_.mp3" length="1762625" type="audio/mpeg"/>
       <itunes:duration>44</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -1034,7 +1034,7 @@
       <podcast:episode>46</podcast:episode>
       <guid isPermaLink="false">8614ad41-ec8a-4405-843c-75f434602452</guid>
       <title>Suzanne Santo - Ghost In My Bed</title>
-      <enclosure url="https://bball.ericpp.dev/46-BBall-Suzanne Santo - Ghost In My Bed.mp3" length="12379265" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/46-BBall-Suzanne%20Santo%20-%20Ghost%20In%20My%20Bed.mp3" length="12379265" type="audio/mpeg"/>
       <itunes:duration>309</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -1058,7 +1058,7 @@
       <podcast:episode>47</podcast:episode>
       <guid isPermaLink="false">f422dda2-faba-498e-a95a-048154a9ca06</guid>
       <title>Suzanne Santo - Blood On Your Knees</title>
-      <enclosure url="https://bball.ericpp.dev/47-BBall-Suzanne Santo - Blood On Your Knees.mp3" length="11990469" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/47-BBall-Suzanne%20Santo%20-%20Blood%20On%20Your%20Knees.mp3" length="11990469" type="audio/mpeg"/>
       <itunes:duration>300</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -1082,7 +1082,7 @@
       <podcast:episode>49</podcast:episode>
       <guid isPermaLink="false">204ed24d-3b5a-43bb-98a1-9fca98e591d0</guid>
       <title>V4V Update</title>
-      <enclosure url="https://bball.ericpp.dev/49-BBall-Curry update.mp3" length="3943726" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/49-BBall-Curry%20update.mp3" length="3943726" type="audio/mpeg"/>
       <itunes:duration>99</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
     </item>
@@ -1092,7 +1092,7 @@
       <podcast:episode>50</podcast:episode>
       <guid isPermaLink="false">b6182fcc-b408-48f6-9411-a6cc3c40a4ac</guid>
       <title>Henry Invisible - Shiny Diamond Nova Super Star</title>
-      <enclosure url="https://bball.ericpp.dev/50-BBall-Henry Invisible - Shiny Diamond Nova Super Star.mp3" length="16579281" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/50-BBall-Henry%20Invisible%20-%20Shiny%20Diamond%20Nova%20Super%20Star.mp3" length="16579281" type="audio/mpeg"/>
       <itunes:duration>414</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -1116,7 +1116,7 @@
       <podcast:episode>51</podcast:episode>
       <guid isPermaLink="false">3512c8c2-907a-4014-b377-426443fc5f8f</guid>
       <title>Henry Invisible - BOUNCE</title>
-      <enclosure url="https://bball.ericpp.dev/51-BBall-Henry Invisible - BOUNCE.mp3" length="26293498" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/51-BBall-Henry%20Invisible%20-%20BOUNCE.mp3" length="26293498" type="audio/mpeg"/>
       <itunes:duration>657</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -1140,7 +1140,7 @@
       <podcast:episode>52</podcast:episode>
       <guid isPermaLink="false">ffb5b244-9a96-4687-b8ca-1ed9ab6bf60f</guid>
       <title>Henry Invisible</title>
-      <enclosure url="https://bball.ericpp.dev/52-BBall-Henry Invisible.mp3" length="10438129" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/52-BBall-Henry%20Invisible.mp3" length="10438129" type="audio/mpeg"/>
       <itunes:duration>261</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
@@ -1164,7 +1164,7 @@
       <podcast:episode>53</podcast:episode>
       <guid isPermaLink="false">cc37eed2-0956-428e-80a0-d12aa3b562ec</guid>
       <title>Henry Invisible - Only Human</title>
-      <enclosure url="https://bball.ericpp.dev/53-BBall-Henry Invisible - Only Human.mp3" length="23044862" type="audio/mpeg"/>
+      <enclosure url="https://bball.ericpp.dev/53-BBall-Henry%20Invisible%20-%20Only%20Human.mp3" length="23044862" type="audio/mpeg"/>
       <itunes:duration>576</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
