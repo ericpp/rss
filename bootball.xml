@@ -1101,6 +1101,8 @@
         <podcast:valueRecipient name="N/A" type="node" address="none" split="100"/>
       </podcast:value>
       <itunes:subtitle>Suzanne Santo - Have a Merry Christmas</itunes:subtitle>
+      <podcast:season>1</podcast:season>
+      <podcast:episode>48</podcast:episode>
     </item>
     <item>
       <pubDate>Wed, 08 Jan 2025 19:39:11 +0000</pubDate>
