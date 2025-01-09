@@ -10,6 +10,7 @@
     <title>N/A</title>
     <description><![CDATA[ Why are you here? ]]></description>
     <atom:link href="https://ericpp.github.io/rss/bootball.xml" rel="self" type="application/rss+xml"/>
+    <itunes:image href="https://ericpp.github.io/rss/bootball.png"/>
     <itunes:explicit>no</itunes:explicit>
     <link></link>
     <podcast:guid>36979821-b79b-59cb-81f0-2877b7071ea9</podcast:guid>
@@ -20,10 +21,27 @@
     <category>Music</category>
     <podcast:value type="lightning" method="keysend">
     </podcast:value>
+    <podcast:aspectImages aspect-ratio="1/1" src="https://ericpp.github.io/rss/bootball.png"/>
     <itunes:owner>
       <itunes:email/>
       <itunes:name/>
     </itunes:owner>
+    <image>
+      <url>https://ericpp.github.io/rss/bootball.png</url>
+      <link>https://ericpp.github.io/rss/</link>
+      <title>N/A</title>
+      <description>N/A</description>
+      <width>144</width>
+      <height>144</height>
+    </image>
     <managingEditor>ericpp</managingEditor>
+    <item>
+      <pubDate>Thu, 09 Jan 2025 23:50:00 +0000</pubDate>
+      <guid isPermaLink="false">49208a31-0286-44de-9662-3d91252a93d3</guid>
+      <title>N/A</title>
+      <enclosure url="https://bball.ericpp.dev/nothing.mp3" length="23044862" type="audio/mpeg"/>
+      <itunes:duration>576</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
   </channel>
 </rss>
