@@ -19,8 +19,6 @@
     <pubDate>Thu, 09 Jan 2025 23:50:00 +0000</pubDate>
     <lastBuildDate>Thu, 09 Jan 2025 23:50:00 +0000</lastBuildDate>
     <category>Music</category>
-    <podcast:value type="lightning" method="keysend">
-    </podcast:value>
     <podcast:aspectImages aspect-ratio="1/1" src="https://ericpp.github.io/rss/bootball.png"/>
     <itunes:owner>
       <itunes:email/>
