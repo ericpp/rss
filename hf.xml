@@ -20,7 +20,7 @@
       <link>https://hellofred.com</link>
       <guid isPermaLink="false">4acdbee6-e406-4f68-8646-e62b24f287ca</guid>
       <enclosure url="https://c21.radioboss.fm:8239/stream" type="audio/mpeg" length="123"/>
-      <podcast:liveValue uri="http://5.78.74.172:5000" protocol="socket.io"/>
+      <podcast:liveValue uri="https://ws.ericpp.dev" protocol="socket.io"/>
       <podcast:contentLink href="https://hellofred.com">Listen Live!</podcast:contentLink>
     </podcast:liveItem>
   </channel>
