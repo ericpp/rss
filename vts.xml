@@ -31,7 +31,7 @@
       <itunes:name/>
     </itunes:owner>
     <pubDate>Tue, 29 Oct 2024 05:04:08 +0000</pubDate>
-    <lastBuildDate>Mon, 28 Apr 2025 18:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 18:07:00 +0000</lastBuildDate>
     <category>Music</category>
     <category/>
     <podcast:guid>608c870a-125c-466d-a56e-8f5a3fb1def7</podcast:guid>
@@ -43,8 +43,9 @@
       <podcast:images srcset="https://ericpp.github.io/rss/vts.png 500w"/>
       <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
         <podcast:valueRecipient name="ericpp@getalby.com" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="GzcSSSNQ5p7Ymhxa6q5e" split="25"/>
+        <podcast:valueRecipient name="ericpp@fountain.fm" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" customKey="906608" customValue="01VPqHlov7ESPMquzrL8GW" split="25"/>
         <podcast:valueRecipient name="Alby Hub" type="node" address="02c7bb6f29f09d92d40d62d64443b688891259dea324406b4678df6235794f24bf" customKey="696969" split="25"/>
-        <podcast:valueRecipient name="Culture Convergence" type="node" address="02c7bb6f29f09d92d40d62d64443b688891259dea324406b4678df6235794f24bf" customKey="696969" customValue="23" split="25"/>
+        <podcast:valueRecipient name="Pew Pew Pew!" type="node" address="039dce5f4f268060d7128267caba658a7e8cd0effaeb81f0daeef843ce2b22110d" split="25"/>
         <podcast:valueTimeSplit startTime="1" duration="15" remotePercentage="25">
           <podcast:remoteItem feedGuid="ca8b0870-47df-4432-89d5-8ad60ca3f577" itemGuid="2bd231ba-ebfe-4966-94b6-c9efa2768470"/>
         </podcast:valueTimeSplit>
