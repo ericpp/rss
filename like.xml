@@ -5,7 +5,7 @@
     <itunes:image href="https://ericpp.github.io/rss/like.png"/>
     <link>https://ericpp.dev/</link>
     <generator>Sovereign Feeds</generator>
-    <podcast:medium>musicL</podcast:medium>
+    <podcast:medium>music</podcast:medium>
     <image>
       <url>https://ericpp.github.io/rss/like.png</url>
       <link>https://ericpp.dev/</link>
