@@ -1,7 +1,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" version="2.0">
   <channel>
     <title>Songs that I like</title>
-    <description>Songs that I like</description>
+    <description>Playlist with songs that I like</description>
     <itunes:image href="https://ericpp.github.io/rss/like.png"/>
     <link>https://ericpp.dev/</link>
     <generator>Sovereign Feeds</generator>
@@ -10,7 +10,7 @@
       <url>https://ericpp.github.io/rss/like.png</url>
       <link>https://ericpp.dev/</link>
       <title>Songs that I like</title>
-      <description>Songs that I like</description>
+      <description>Playlist with songs that I like</description>
       <width>144</width>
       <height>144</height>
     </image>
@@ -20,8 +20,8 @@
       <itunes:name/>
     </itunes:owner>
     <itunes:author>ericpp</itunes:author>
-    <pubDate>Sat, 21 Jun 2025 09:35:51 +0000</pubDate>
-    <lastBuildDate>Sat, 21 Jun 2025 09:35:51 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Jun 2025 05:17:56 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Jun 2025 05:17:56 +0000</lastBuildDate>
     <podcast:guid>9d6c5cbf-8d76-548c-9d40-b7bc57660de9</podcast:guid>
     <podcast:remoteItem feedGuid="3074902b-b2dc-5877-bfc3-30f5df0fbe6a" feedUrl="https://www.doerfelverse.com/feeds/middle-season-let-go.xml" feedImg="https://www.doerfelverse.com/art/let-go-art.png" itemGuid="c59c7ffe-3847-4d55-ac27-5a1c1fbe6140"/>
     <podcast:remoteItem feedGuid="1dc549bf-c1ef-5a30-813f-a2918d37b38d" feedUrl="https://www.doerfelverse.com/artists/middleseason/inside-out.xml" feedImg="https://www.doerfelverse.com/artists/middleseason/inside-out.jpg" itemGuid="f5f51623-49f7-4c8d-ad7a-e1bafa10bab8"/>
@@ -460,6 +460,13 @@
     <podcast:remoteItem feedGuid="ae017039-59ec-52c3-8528-368541b59d97" feedUrl="https://feeds.rssblue.com/no-return" feedImg="https://media.rssblue.com/podcasts/no-return/cover-art.untitled.png" itemGuid="05ab35c7-dd30-5c99-8ad3-042679f44036"/>
     <podcast:remoteItem feedGuid="12cab0c2-092b-5a0f-a04a-eca2766dba43" feedUrl="https://feeds.rssblue.com/dolphin-sim-1992" feedImg="https://media.rssblue.com/podcasts/dolphin-sim-1992/cover-art.dolphin-sim-1992-cover.jpg" itemGuid="517fcf13-869e-5923-a6dc-eb39bea13caa"/>
     <podcast:remoteItem feedGuid="32e4b0de-35c9-56b2-be4d-f5a4e0f94bff" feedUrl="https://feeds.rssblue.com/belief" feedImg="https://media.rssblue.com/podcasts/belief/cover-art.belief-oceanfront.png" itemGuid="66eacfc7-0964-56c3-88f7-78ab28e3fbd3"/>
+    <podcast:remoteItem feedGuid="911fef36-abb6-5bcc-8f3d-bc77509d9938" feedUrl="https://wavlake.com/feed/music/71894edf-551e-4e83-a86f-0896537e3436" feedImg="https://d12wklypp119aj.cloudfront.net/image/71894edf-551e-4e83-a86f-0896537e3436.jpg" itemGuid="8962a3b9-d9bb-4b6a-9079-2e4a9ba6e7c6"/>
+    <podcast:remoteItem feedGuid="c763c404-60e1-5955-885a-d7a54773eb3f" feedUrl="https://wavlake.com/feed/music/5bff6d84-93e3-491d-8a6a-feed19d41a58" feedImg="https://d12wklypp119aj.cloudfront.net/image/5bff6d84-93e3-491d-8a6a-feed19d41a58.jpg" itemGuid="2036d16d-976c-44eb-89f0-d2c309bfcf67"/>
+    <podcast:remoteItem feedGuid="c763c404-60e1-5955-885a-d7a54773eb3f" feedUrl="https://wavlake.com/feed/music/5bff6d84-93e3-491d-8a6a-feed19d41a58" feedImg="https://d12wklypp119aj.cloudfront.net/image/5bff6d84-93e3-491d-8a6a-feed19d41a58.jpg" itemGuid="8fcb7c24-51d5-49e7-a603-008212557be7"/>
+    <podcast:remoteItem feedGuid="712c5393-aa44-5c3f-9db6-2a09b2c2fb07" feedUrl="https://www.wavlake.com/feed/c6ea2ec3-c047-40d1-9978-2261f4ac5e81" feedImg="https://d12wklypp119aj.cloudfront.net/image/c6ea2ec3-c047-40d1-9978-2261f4ac5e81.jpg" itemGuid="8595ef06-ee89-4d06-9abd-abeed3a098b4"/>
+    <podcast:remoteItem feedGuid="370c2f8f-3c5a-5cf5-a589-a2bf00bc74e2" feedUrl="https://www.wavlake.com/feed/80cff0e9-a6f0-4be5-8f6a-8b6e3d19f3af" feedImg="https://d12wklypp119aj.cloudfront.net/image/80cff0e9-a6f0-4be5-8f6a-8b6e3d19f3af.jpg" itemGuid="8b648490-d11f-4b7f-ae79-279a810a7515"/>
+    <podcast:remoteItem feedGuid="01c81dd5-a799-5a6b-8667-d6a17fec2f4f" feedUrl="https://wavlake.com/feed/0216b14d-c1da-4a49-8219-b76370cf811c" feedImg="https://d12wklypp119aj.cloudfront.net/image/0216b14d-c1da-4a49-8219-b76370cf811c.jpg" itemGuid="f6922ab8-4eff-4cac-8d07-71e8deff67dd"/>
+    <podcast:remoteItem feedGuid="3a1102e4-f06f-53ee-a3d3-ca0636428f0e" feedUrl="https://wavlake.com/feed/1410735f-40c6-46e4-bacd-fca8c2b21cda" feedImg="https://d12wklypp119aj.cloudfront.net/image/1410735f-40c6-46e4-bacd-fca8c2b21cda.jpg" itemGuid="e76b50f9-2a3d-43e5-8403-932b7f7cae4c"/>
     <itunes:category text="Music"/>
     <podcast:complete>no</podcast:complete>
     <category>Music</category>
