@@ -20,8 +20,18 @@
       <itunes:name/>
     </itunes:owner>
     <itunes:author>ericpp</itunes:author>
-    <pubDate>Sun, 22 Jun 2025 05:17:56 +0000</pubDate>
-    <lastBuildDate>Sun, 22 Jun 2025 05:17:56 +0000</lastBuildDate>
+    <itunes:category text="Music"/>
+    <podcast:complete>no</podcast:complete>
+    <category>Music</category>
+    <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+      <podcast:valueRecipient name="ericpp@getalby.com" type="node" address="02c7bb6f29f09d92d40d62d64443b688891259dea324406b4678df6235794f24bf" customKey="696969" customValue="34" split="1"/>
+    </podcast:value>
+    <podcast:podroll>
+      <podcast:remoteItem feedGuid="287e27fa-adc5-4762-956f-0282bba5ed77" feedUrl="https://cdn.kolomona.com/podcasts/lightning-thrashes/playlists/001-to-060-lightning-thrashes-playlist.xml"/>
+      <podcast:remoteItem feedGuid="6486d0d9-4393-55dd-adc5-ecb3fa7e7409" feedUrl="https://stats.podcastindex.org/v4vmusic.rss"/>
+    </podcast:podroll>
+    <pubDate>Thu, 26 Jun 2025 07:03:37 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Jun 2025 07:03:37 +0000</lastBuildDate>
     <podcast:guid>9d6c5cbf-8d76-548c-9d40-b7bc57660de9</podcast:guid>
     <podcast:remoteItem feedGuid="3074902b-b2dc-5877-bfc3-30f5df0fbe6a" feedUrl="https://www.doerfelverse.com/feeds/middle-season-let-go.xml" feedImg="https://www.doerfelverse.com/art/let-go-art.png" itemGuid="c59c7ffe-3847-4d55-ac27-5a1c1fbe6140"/>
     <podcast:remoteItem feedGuid="1dc549bf-c1ef-5a30-813f-a2918d37b38d" feedUrl="https://www.doerfelverse.com/artists/middleseason/inside-out.xml" feedImg="https://www.doerfelverse.com/artists/middleseason/inside-out.jpg" itemGuid="f5f51623-49f7-4c8d-ad7a-e1bafa10bab8"/>
@@ -492,8 +502,5 @@
     <podcast:remoteItem feedGuid="0e28f459-2cb7-5a73-8af6-9f594b6c54dd" feedUrl="https://wavlake.com/feed/music/1fd7be38-7a23-4698-b50b-4bbe95230588" itemGuid="e4911559-9590-4126-bd42-18d0348a68f5" medium="music"/>
     <podcast:remoteItem feedGuid="07e25967-1a9a-5c6b-8dda-d580e3dc0148" feedUrl="https://wavlake.com/feed/music/4d15b057-eb53-4b70-b870-41e24aee130c" itemGuid="edb4c6cb-6d94-4275-9f9c-e856a2ee9e01" medium="music"/>
     <podcast:remoteItem feedGuid="f953a178-d59c-532b-a7bd-0111cc6d92c1" feedUrl="https://wavlake.com/feed/music/6b9cbbf2-18f1-4415-a164-c9fd5cfb8a24" itemGuid="b18f30c3-f28c-40a3-942f-9228056f58d6" medium="music"/>
-    <itunes:category text="Music"/>
-    <podcast:complete>no</podcast:complete>
-    <category>Music</category>
   </channel>
 </rss>
