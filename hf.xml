@@ -14,14 +14,37 @@
     <podcast:funding url="https://go.godcaster.fm/act/sr/18?d=https%3A%2F%2Fbridgefbg.com%2Fabout%2Fgive%2F">Please support us!</podcast:funding>
     <podcast:location>Fredericksburg, Texas, USA</podcast:location>
     <podcast:guid>f9724d89-a2a0-453c-9f4d-968d9c5e76d8</podcast:guid>
-    <podcast:liveItem start="2025-02-24T12:58:03+00:00" end="2026-02-24T12:58:03+00:00" status="live">
-      <title>HF LIVE</title>
-      <description>HF LIVE</description>
-      <link>https://hellofred.com</link>
-      <guid isPermaLink="false">4acdbee6-e406-4f68-8646-e62b24f287ca</guid>
-      <enclosure url="https://c21.radioboss.fm:8239/stream" type="audio/mpeg" length="123"/>
-      <podcast:liveValue uri="https://ws.ericpp.dev" protocol="socket.io"/>
-      <podcast:contentLink href="https://hellofred.com">Listen Live!</podcast:contentLink>
+
+    <podcast:liveItem start="2025-02-24T12:58:03+00:00" end="2100-02-24T12:58:03+00:00" status="live">
+      <title>Hello Fred! - All Music Live Stream - LIVE</title>
+      <description>Live from the Heart of the Texas Hill Country - Hello Fred!</description>
+      <link>https://hellofred.fm</link>
+      <guid isPermaLink="false">35f494b2-cf5a-57cf-860e-198676e27d6f1740401883</guid>
+      <enclosure url="https://streaming.live365.com/a28862" type="audio/mpeg" length="123"/>
+      <podcast:contentLink href="https://hellofred.fm">Listen Live!</podcast:contentLink>
+      <podcast:liveValue uri="https://ws.ericpp.dev/fred" protocol="socket.io"/>
     </podcast:liveItem>
+
+    <podcast:liveItem start="2025-07-15T16:20:46+00:00" end="2100-07-15T16:20:46+00:00" status="live">
+      <title>Hello Franklin! 24/7 Music - LIVE</title>
+      <description>Hello Franklin is a 24/7 Live and on-demand station with Music And God's word</description>
+      <link>https://hellofranklin.fm/</link>
+      <guid isPermaLink="false">9c948765-9c84-5944-988b-004844316aec1752596446</guid>
+      <enclosure url="https://streaming.live365.com/a14144" type="audio/mpeg" length="123"/>
+      <podcast:contentLink href="https://hellofranklin.fm/">Listen Live!</podcast:contentLink>
+      <podcast:liveValue uri="https://ws.ericpp.dev/frank" protocol="socket.io"/>
+    </podcast:liveItem>
+
+    <podcast:liveItem start="2025-07-15T16:28:13+00:00" end="2100-07-15T16:28:13+00:00" status="live">
+      <title>Hello Franklin! All Talk 24/7 - LIVE</title>
+      <description>Hello Franklin is a 24/7 Live and on-demand station with Music And God's word</description>
+      <link>https://hellofranklin.fm/</link>
+      <guid isPermaLink="false">9c948765-9c84-5944-988b-004844316aec1752596893</guid>
+      <enclosure url="https://godcasterlive.com/player_645" type="audio/mpeg" length="123"/>
+      <podcast:contentLink href="https://hellofranklin.fm/">Listen Live!</podcast:contentLink>
+      <podcast:liveValue uri="https://ws.ericpp.dev/franktalk" protocol="socket.io"/>
+    </podcast:liveItem>
+
+
   </channel>
 </rss>
