@@ -33,6 +33,23 @@
     <pubDate>Thu, 26 Jun 2025 07:03:37 +0000</pubDate>
     <lastBuildDate>Thu, 26 Jun 2025 07:03:37 +0000</lastBuildDate>
     <podcast:guid>9d6c5cbf-8d76-548c-9d40-b7bc57660de9</podcast:guid>
+    <item>
+      <title>Ignore</title>
+      <description><![CDATA[<p>Does the index need an item tag to pick this up?</p>]]></description>
+      <itunes:image href="https://blob.satellite.earth/44870c87976386d9c867ddc0d8e61ebe0a2b8dc00c02609075bcff23eb958b2d"/>
+      <enclosure url="https://blob.satellite.earth/9fbcb7c5f6595ed8f42b47a3ba00cf0014cbc270b46393a790ce96129e4d3a4c" length="92878" type="audio/mpeg"/>
+      <podcast:images srcset="https://blob.satellite.earth/44870c87976386d9c867ddc0d8e61ebe0a2b8dc00c02609075bcff23eb958b2d 500w"/>
+      <guid isPermaLink="false">7b8c49b3-4478-4d6b-85c0-517724d20619</guid>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Pew Pew Pew!" type="lnaddress" address="ericpp@getalby.com" split="100"/>
+      </podcast:value>
+      <itunes:subtitle>Test track #1</itunes:subtitle>
+      <itunes:duration>8</itunes:duration>
+      <link>https://podcastindex.social/@ericpp</link>
+      <pubDate>Tue, 26 Nov 2024 03:04:00 +0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary><![CDATA[<p>Does the index need an item tag to pick this up?</p>]]></itunes:summary>
+    </item>
     <podcast:remoteItem feedGuid="3074902b-b2dc-5877-bfc3-30f5df0fbe6a" feedUrl="https://www.doerfelverse.com/feeds/middle-season-let-go.xml" feedImg="https://www.doerfelverse.com/art/let-go-art.png" itemGuid="c59c7ffe-3847-4d55-ac27-5a1c1fbe6140"/>
     <podcast:remoteItem feedGuid="1dc549bf-c1ef-5a30-813f-a2918d37b38d" feedUrl="https://www.doerfelverse.com/artists/middleseason/inside-out.xml" feedImg="https://www.doerfelverse.com/artists/middleseason/inside-out.jpg" itemGuid="f5f51623-49f7-4c8d-ad7a-e1bafa10bab8"/>
     <podcast:remoteItem feedGuid="2b6d971f-562e-510e-ad40-272cb3962c8b" feedUrl="https://www.doerfelverse.com/artists/middleseason/mejor-version.xml" feedImg="https://www.doerfelverse.com/artists/middleseason/mejor-version.png" itemGuid="da04652e-8d3e-4720-9434-0455b930ea52"/>
