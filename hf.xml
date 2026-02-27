@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
-    <lastBuildDate>Thu, 24 Apr 2025 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 01:57:00 +0000</lastBuildDate>
     <generator>Hackjob</generator>
     <link>https://hellofred.com</link>
     <description>Testing live song/artist switching from a IceCast stream</description>
@@ -30,7 +30,7 @@
       <description>Hello Franklin is a 24/7 Live and on-demand station with Music And God's word</description>
       <link>https://hellofranklin.fm/</link>
       <guid isPermaLink="false">9c948765-9c84-5944-988b-004844316aec1752596446</guid>
-      <enclosure url="https://streaming.live365.com/a14144" type="audio/mpeg" length="123"/>
+      <enclosure url="https://stream.zeno.fm/fldsofd92fvvv" type="audio/mpeg" length="123"/>
       <podcast:contentLink href="https://hellofranklin.fm/">Listen Live!</podcast:contentLink>
       <podcast:liveValue uri="https://ws.ericpp.dev/frank" protocol="socket.io"/>
     </podcast:liveItem>
